@@ -1,3 +1,5 @@
+WORK IN PROGRESS
+
 A list of useful articles and videos generated from my Instapaper archived list
 
 ## Kent Beck
@@ -201,7 +203,7 @@ A list of useful articles and videos generated from my Instapaper archived list
 - [Engineering culture (part 1)](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
 - [Engineering culture (part 2)](https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/)
 
-## Stop Treading Water: Learning to Learn by Edward Kmett - YOW! 2014 
+## Stop Treading Water: Learning to Learn by Edward Kmett - YOW! 2014
 - [ Evente](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750)
 
 ## 8th Light
@@ -250,7 +252,7 @@ A list of useful articles and videos generated from my Instapaper archived list
 - [Part V & VI](https://www.youtube.com/watch?v=gWD6REVeKW4)
 - [Part IV](https://www.youtube.com/watch?v=dGtasFJnUxI)
 
-## All evidence points to OOP being bullshit 
+## All evidence points to OOP being bullshit
 - [ Pivotal P.O.V.](https://blog.pivotal.io/labs/labs/all-evidence-points-to-oop-being-bullshit)
 
 ## Conference Speaking
