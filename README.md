@@ -1,4 +1,5 @@
 A list of useful articles and videos generated from my Instapaper archived list
+WARNING: some of these topics are in italian language
 
 ## 8th Light
 - [Hey Let's Learn About JavaScript Promises](https://blog.8thlight.com/kevin-buchanan/2016/06/06/javascript-promises.html)
