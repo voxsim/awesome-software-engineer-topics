@@ -75,13 +75,11 @@ A list of useful articles and videos generated from my Instapaper archived list
 - [A Real-Life Contract Test](http://blog.thecodewhisperer.com/permalink/a-real-life-contract-test)
 - [Clearing Up the Integrated Tests Scam](http://blog.thecodewhisperer.com/permalink/clearing-up-the-integrated-tests-scam)
 - [Injecting dependencies doesn't have to hurt](http://blog.thecodewhisperer.com/permalink/injecting-dependencies-doesnt-have-to-hurt)
+- [Integrated Tests Are A Scam](https://vimeo.com/80533536)
 - [Primitive Obsession Obsession - The Code Whisperer](http://blog.thecodewhisperer.com/permalink/primitive-obsession-obsession)
 - [Surely the Mars rover needed integrated tests! (Maybe not?)](http://blog.thecodewhisperer.com/permalink/surely-the-mars-rover-needed-integrated-tests-maybe-not)
 - [The Four Elements of Simple Design](http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design)
 - [What your tests don't need to know will hurt you](http://blog.thecodewhisperer.com/permalink/what-your-tests-dont-need-to-know-will-hurt-you)
-
-## J.B. Rainsberger
-- [Integrated Tests Are A Scam](https://vimeo.com/80533536)
 
 ## Jez Humble
 - [Adopting Continuous Delivery](https://www.youtube.com/watch?v=ZLBhVEo1OG4)
@@ -165,8 +163,8 @@ A list of useful articles and videos generated from my Instapaper archived list
 - [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
 - [The Clean Code Talks - Don't Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
 - [The Clean Code Talks - Global State and Singletons](https://www.youtube.com/watch?v=-FRm3VPhseI)
+- [The Clean Code Talks - Inheritance, Polymorphism, & Testing](https://www.youtube.com/watch?v=4F72VULWFvc)
 - [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
-- [The Clean Code Talks -- Inheritance, Polymorphism, & Testing](https://www.youtube.com/watch?v=4F72VULWFvc)
 
 ## Nat Pryce
 - [Message Obsession](http://www.natpryce.com/articles/000816.html)
