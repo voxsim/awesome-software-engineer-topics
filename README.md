@@ -74,7 +74,7 @@ WARNING: some of these topics are in italian language
 - [Clearing Up the Integrated Tests Scam](http://blog.thecodewhisperer.com/permalink/clearing-up-the-integrated-tests-scam)
 - [Injecting dependencies doesn't have to hurt](http://blog.thecodewhisperer.com/permalink/injecting-dependencies-doesnt-have-to-hurt)
 - [Integrated Tests Are A Scam](https://vimeo.com/80533536)
-- [Primitive Obsession Obsession - The Code Whisperer](http://blog.thecodewhisperer.com/permalink/primitive-obsession-obsession)
+- [Primitive Obsession Obsession](http://blog.thecodewhisperer.com/permalink/primitive-obsession-obsession)
 - [Surely the Mars rover needed integrated tests! (Maybe not?)](http://blog.thecodewhisperer.com/permalink/surely-the-mars-rover-needed-integrated-tests-maybe-not)
 - [The Four Elements of Simple Design](http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design)
 - [What your tests don't need to know will hurt you](http://blog.thecodewhisperer.com/permalink/what-your-tests-dont-need-to-know-will-hurt-you)
@@ -90,7 +90,7 @@ WARNING: some of these topics are in italian language
 
 ## Katrina Owen
 - [Here be Dragons](https://www.youtube.com/watch?v=FvrZrwR5Flc)
-- [Overkill @RubyConf Portugal](https://www.youtube.com/watch?v=GWEEPt8VvmU)
+- [Overkill](https://www.youtube.com/watch?v=GWEEPt8VvmU)
 
 ## Kent Beck
 - [Accelerating Upside: Convexity in Software Development](https://www.facebook.com/notes/kent-beck/accelerating-upside-convexity-in-software-development/1134914156541447/)
@@ -104,7 +104,7 @@ WARNING: some of these topics are in italian language
 - [My Convex Career](https://www.facebook.com/notes/kent-beck/my-convex-career/1141660292533500/)
 - [RailsConf 2015 - Closing Keynote](https://www.youtube.com/watch?v=aApmOZwdPqA)
 - [Rapid Release Cycles for Convex and Concave Projects](https://www.facebook.com/notes/kent-beck/rapid-release-cycles-for-convex-and-concave-projects/1146648855367977/)
-- [The Return of the Waterfall - YouTube](https://www.youtube.com/watch?v=w4IncnNVzMA)
+- [The Return of the Waterfall](https://www.youtube.com/watch?v=w4IncnNVzMA)
 - [You Always Tell Stories to a Five-Year-Old and Other Lessons from a Storyteller](https://www.facebook.com/notes/kent-beck/you-always-tell-stories-to-a-five-year-old-and-other-lessons-from-a-storyteller/1186539594712236/)
 
 ## Luca Minudel
@@ -134,6 +134,7 @@ WARNING: some of these topics are in italian language
 - [MicroservicePremium](http://martinfowler.com/bliki/MicroservicePremium.html)
 - [Microservices](http://martinfowler.com/articles/microservices.html)
 - [Microservices Video](https://www.youtube.com/watch?v=wgdBVIX9ifA)
+- [Not Just Code Monkeys](https://www.youtube.com/watch?v=Z8aECe4lp44)
 - [PageObject](http://martinfowler.com/bliki/PageObject.html)
 - [Passive View](http://martinfowler.com/eaaDev/PassiveScreen.html)
 - [Refactoring a javascript video store](http://martinfowler.com/articles/refactoring-video-store-js/)
@@ -222,7 +223,6 @@ WARNING: some of these topics are in italian language
 - [Kathy Sierra - Making Badass Developers (Serious Pony)](https://www.youtube.com/watch?v=FKTxC9pl-WM)
 - [Konstantin Kudryashov - Design How Your Objects Talk Through Mocking](https://www.youtube.com/watch?v=X6y-OyMPqfw)
 - [Lasse Ziegler - The Good Product Owner - A path to become great](https://www.youtube.com/watch?v=tIk9HUyRXJ4)
-- [Martin Fowler @ OOP2014 "Not Just Code Monkeys"](https://www.youtube.com/watch?v=Z8aECe4lp44)
 - [Mathias Verraes - Unbreakable Domain Models](https://www.youtube.com/watch?v=ZJ63ltuwMaE&list=PL_aPVo2HeGF-7o9SPO5arFrAaU8bcIjba&index=8)
 - [Matt Wynne - GoRuCo 2012 Hexagonal Rails](https://www.youtube.com/watch?v=CGN4RFkhH2M)
 - [Matt Wynne - Treating objects like people](https://www.youtube.com/watch?v=lMCsQ_Mg3tI)
