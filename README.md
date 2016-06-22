@@ -7,11 +7,11 @@ WARNING: some of these topics are in italian language
 - [Optimizing the Sustainable Pace](https://blog.8thlight.com/paul-pagel/2015/09/15/optimize-sustainable-pace.html)
 
 ## Aaron Patterson
-- [Full Stack Fest 2015: Request and Response](https://www.youtube.com/watch?v=1EeWXojdqvU)
 - [I am a puts debuggerer](http://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html)
 - [RailsConf 2013 - Closing Keynote](https://www.youtube.com/watch?v=5kgUL_FfUZY)
 - [RailsConf 2014 - Closing Keynote](https://www.youtube.com/watch?v=BTTygyxuGj8)
 - [RailsConf 2015 - Keynote](https://www.youtube.com/watch?v=B3gYklsN9uc)
+- [Request and Response](https://www.youtube.com/watch?v=1EeWXojdqvU)
 
 ## Alan Kay
 - [A Conversation with him - ACM Queue](http://queue.acm.org/detail.cfm?id=1039523)
@@ -161,12 +161,18 @@ WARNING: some of these topics are in italian language
 - [The Hexagonal Architecture](http://matteo.vaccari.name/blog/the-hexagonal-architecture)
 
 ## Misko Hevery
+- [Breaking the Law of Demeter is Like Looking for a Needle in the Haystack](http://misko.hevery.com/2008/07/18/breaking-the-law-of-demeter-is-like-looking-for-a-needle-in-the-haystack/)
 - [Checked exceptions I love you, but you have to go](http://misko.hevery.com/2009/09/16/checked-exceptions-i-love-you-but-you-have-to-go/)
+- [How to Think About the “new” Operator with Respect to Unit Testing](http://misko.hevery.com/2008/07/08/how-to-think-about-the-new-operator/)
 - [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
+- [Root Cause of Singletons](http://misko.hevery.com/2008/08/25/root-cause-of-singletons/)
+- [Singletons are Pathological Liars](http://misko.hevery.com/2008/08/17/singletons-are-pathological-liars/)
 - [The Clean Code Talks - Don't Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
 - [The Clean Code Talks - Global State and Singletons](https://www.youtube.com/watch?v=-FRm3VPhseI)
 - [The Clean Code Talks - Inheritance, Polymorphism, & Testing](https://www.youtube.com/watch?v=4F72VULWFvc)
 - [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
+- [Top 10 things which make your code hard to test](http://misko.hevery.com/2008/07/30/top-10-things-which-make-your-code-hard-to-test/)
+- [Where Have All the Singletons Gone?](http://misko.hevery.com/2008/08/21/where-have-all-the-singletons-gone/)
 
 ## Nat Pryce
 - [Message Obsession](http://www.natpryce.com/articles/000816.html)
