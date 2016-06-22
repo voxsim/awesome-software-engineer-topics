@@ -16,7 +16,7 @@ WARNING: some of these topics are in italian language
 ## Alan Kay
 - [A Conversation with him - ACM Queue](http://queue.acm.org/detail.cfm?id=1039523)
 - [Power of Simplicity](https://www.youtube.com/watch?v=NdSD07U5uBs)
-- [Rethinking CS Education, CrossRoads 2015](https://www.youtube.com/watch?v=N9c7_8Gp7gI)
+- [Rethinking CS Education](https://www.youtube.com/watch?v=N9c7_8Gp7gI)
 - [The computer revolution hasnt happened yet](https://www.youtube.com/watch?v=oKg1hTOQXoY)
 
 ## Alistair Cockburn
@@ -26,10 +26,6 @@ WARNING: some of these topics are in italian language
 ## C2.com
 - [Code Smell](http://c2.com/xp/CodeSmell.html)
 - [Test Driven Development](http://c2.com/cgi/wiki?TestDrivenDevelopment)
-
-## Conference Speaking
-- [Conference Club](http://rachelcdavies.github.io/2014/05/27/conference-club.html)
-- [Tips for Public Speaking – speaking.io](http://speaking.io/)
 
 ## Corey Haines
 - [Design Patterns And The Proper Cultivation Thereof](https://www.youtube.com/watch?v=vqN3TQgsXzI)
@@ -277,6 +273,11 @@ WARNING: some of these topics are in italian language
 - [TDD04IT Mock Objects](https://www.youtube.com/watch?v=AmM3zhNQNeI)
 - [TDD05IT Design Evolutivo](https://www.youtube.com/watch?v=C94BmuMi8Bo)
 
+## Public Speaking
+- [Rachel Davies - Conference Club](http://rachelcdavies.github.io/2014/05/27/conference-club.html)
+- [Zach Holman - Tips for Public Speaking – speaking.io](http://speaking.io/)
+- [Zach Holman - What They Don't Tell You About Public Speaking](https://zachholman.com/posts/what-they-dont-tell-you-about-public-speaking/)
+
 ## Rachel Davies
 - [Extreme Programming Myths & Legends Busted](http://www.ustream.tv/recorded/86155342)
 
@@ -334,4 +335,3 @@ WARNING: some of these topics are in italian language
 - [How GitHub (no longer) Works](http://www.infoq.com/presentations/github-evolution)
 - [How GitHub Uses GitHub to Build GitHub](https://www.youtube.com/watch?v=qyz3jkOBbQY)
 - [Remote-First vs. Remote-Friendly](https://zachholman.com/posts/remote-first/?utm_campaign=buffer&utm_content=buffer9b64e&utm_medium=social&utm_source=twitter.com)
-- [What They Don't Tell You About Public Speaking](https://zachholman.com/posts/what-they-dont-tell-you-about-public-speaking/)
