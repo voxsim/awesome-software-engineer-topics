@@ -4,7 +4,9 @@ WARNING: some of these topics are in italian language
 
 ## 8th Light
 - [Hey Let's Learn About JavaScript Promises](https://blog.8thlight.com/kevin-buchanan/2016/06/06/javascript-promises.html)
+- [How to hire a software developer](https://blog.8thlight.com/doug-bradbury/2016/06/22/how-to-hire-software-developer.html)
 - [Optimizing the Sustainable Pace](https://blog.8thlight.com/paul-pagel/2015/09/15/optimize-sustainable-pace.html)
+- [The Experience Gap](https://blog.8thlight.com/doug-bradbury/2012/10/30/experience-gap.html)
 
 ## Aaron Patterson
 - [I am a puts debuggerer](http://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html)
@@ -159,6 +161,8 @@ WARNING: some of these topics are in italian language
 
 ## Misko Hevery
 - [Breaking the Law of Demeter is Like Looking for a Needle in the Haystack](http://misko.hevery.com/2008/07/18/breaking-the-law-of-demeter-is-like-looking-for-a-needle-in-the-haystack/)
+- [Changing Developer Behaviour, Part 1](http://www.alphaitjournal.com/2008/08/hevery-changing-developer-behaviour.html)
+- [Changing Developer Behaviour, Part 2](http://www.alphaitjournal.com/2009/06/hevery-changing-developer-behaviour.html)
 - [Checked exceptions I love you, but you have to go](http://misko.hevery.com/2009/09/16/checked-exceptions-i-love-you-but-you-have-to-go/)
 - [How to Think About the “new” Operator with Respect to Unit Testing](http://misko.hevery.com/2008/07/08/how-to-think-about-the-new-operator/)
 - [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
@@ -187,6 +191,7 @@ WARNING: some of these topics are in italian language
 - [Agile@Work 2015 - Paolo D'Incau - Continuous Delivery On Java Projects](https://www.youtube.com/watch?v=Y6juAsiurO4)
 - [Allen Holub - NoEstimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
 - [Allen Holub - The death of Agile](https://www.youtube.com/watch?v=vSnCeJEka_s)
+- [Bob Nystrom - Long Names Are Long](http://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/)
 - [Ciaran McNulty - Why Your Test Suite Sucks](https://www.youtube.com/watch?v=DlgadZLOK-M)
 - [Classical Inheritance in JavaScript](http://www.crockford.com/javascript/inheritance.html)
 - [Coby Chapple - Remote by Default: How Github Makes Working Remotely Not Suck](https://vimeo.com/96692943)
