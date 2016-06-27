@@ -1,5 +1,6 @@
 A list of useful articles and videos generated from my Instapaper archived list
 
+# Links
 WARNING: some of these topics are in italian language
 
 ## 8th Light
@@ -337,3 +338,6 @@ WARNING: some of these topics are in italian language
 - [How GitHub (no longer) Works](http://www.infoq.com/presentations/github-evolution)
 - [How GitHub Uses GitHub to Build GitHub](https://www.youtube.com/watch?v=qyz3jkOBbQY)
 - [Remote-First vs. Remote-Friendly](https://zachholman.com/posts/remote-first/?utm_campaign=buffer&utm_content=buffer9b64e&utm_medium=social&utm_source=twitter.com)
+
+# Are you a newbie? Do you need a study path?
+You can enjoy [the joebew42' study path](https://github.com/joebew42/study-path) :)
