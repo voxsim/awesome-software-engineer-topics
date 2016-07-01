@@ -26,6 +26,15 @@ WARNING: some of these topics are in italian language
 - [How I saved Agile and the Rest of the World](http://alistair.cockburn.us/How+I+saved+Agile+and+the+rest+of+the+world)
 - [Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY)
 
+## Arlo Belshee
+- [Naming is a Process, part 1:Good naming is a process, not a single step](http://arlobelshee.com/good-naming-is-a-process-not-a-single-step/)
+- [Naming is a Process, part 2: Missing to Nonsense](http://arlobelshee.com/naming-is-a-process-part-2-missing-to-nonsense/)
+- [Naming is a process, part 3: Nonsense to Honest](http://arlobelshee.com/naming-is-a-process-part-3-nonsense-to-honest/)
+- [New code is legacy code](http://arlobelshee.com/new-code-is-legacy-code/)
+- [The Core 6 Refactorings](http://arlobelshee.com/the-core-6-refactorings/)
+- [WET: When DRY Doesn’t Apply](http://arlobelshee.com/wet-when-dry-doesnt-apply/)
+- [We are not fucking competent](http://arlobelshee.com/we-are-not-fucking-competent/)
+
 ## C2.com
 - [Code Smell](http://c2.com/xp/CodeSmell.html)
 - [Test Driven Development](http://c2.com/cgi/wiki?TestDrivenDevelopment)
@@ -74,6 +83,7 @@ WARNING: some of these topics are in italian language
 - [7 minutes, 26 seconds](https://vimeo.com/79106557)
 - [A Model for Improving Names](http://blog.thecodewhisperer.com/permalink/a-model-for-improving-names)
 - [A Real-Life Contract Test](http://blog.thecodewhisperer.com/permalink/a-real-life-contract-test)
+- [Beyond Mock Objects](http://blog.thecodewhisperer.com/permalink/beyond-mock-objects)
 - [Clearing Up the Integrated Tests Scam](http://blog.thecodewhisperer.com/permalink/clearing-up-the-integrated-tests-scam)
 - [Injecting dependencies doesn't have to hurt](http://blog.thecodewhisperer.com/permalink/injecting-dependencies-doesnt-have-to-hurt)
 - [Integrated Tests Are A Scam](https://vimeo.com/80533536)
@@ -119,6 +129,7 @@ WARNING: some of these topics are in italian language
 - [AccessModifier](http://martinfowler.com/bliki/AccessModifier.html)
 - [AntiPattern](http://martinfowler.com/bliki/AntiPattern.html)
 - [BlueGreenDeployment](http://martinfowler.com/bliki/BlueGreenDeployment.html)
+- [Boiled carrot](http://martinfowler.com/bliki/BoiledCarrot.html)
 - [Born for it](http://martinfowler.com/articles/born-for-it.html)
 - [CQRS](http://martinfowler.com/bliki/CQRS.html)
 - [CanaryRelease](http://martinfowler.com/bliki/CanaryRelease.html)
@@ -146,6 +157,9 @@ WARNING: some of these topics are in italian language
 - [ServiceOrientedAmbiguity](http://martinfowler.com/bliki/ServiceOrientedAmbiguity.html)
 - [StranglerApplication](http://martinfowler.com/bliki/StranglerApplication.html)
 - [Transaction Script](http://martinfowler.com/eaaCatalog/transactionScript.html)
+- [UserStory](http://martinfowler.com/bliki/UserStory.html)
+- [We cannot measure productivity](http://martinfowler.com/bliki/CannotMeasureProductivity.html)
+- [What is failure](http://martinfowler.com/bliki/WhatIsFailure.html)
 - [Workflows of Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw)
 - [Yagni](http://martinfowler.com/bliki/Yagni.html)
 - [with Molly Dishman - Agile Architecture](https://www.youtube.com/watch?v=VjKYO6DP3fo)
@@ -192,6 +206,7 @@ WARNING: some of these topics are in italian language
 - [Agile@Work 2015 - Paolo D'Incau - Continuous Delivery On Java Projects](https://www.youtube.com/watch?v=Y6juAsiurO4)
 - [Allen Holub - NoEstimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
 - [Allen Holub - The death of Agile](https://www.youtube.com/watch?v=vSnCeJEka_s)
+- [Bill Jordan - The Quiet Crisis unfolding in Software Development](https://medium.com/@billjordan1/the-quiet-crisis-unfolding-in-software-development-cffbdafbf450#.z8s3rilmd)
 - [Bob Nystrom - Long Names Are Long](http://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/)
 - [Ciaran McNulty - Why Your Test Suite Sucks](https://www.youtube.com/watch?v=DlgadZLOK-M)
 - [Classical Inheritance in JavaScript](http://www.crockford.com/javascript/inheritance.html)
@@ -236,6 +251,7 @@ WARNING: some of these topics are in italian language
 - [Matt Wynne - Treating objects like people](https://www.youtube.com/watch?v=lMCsQ_Mg3tI)
 - [Mattia Battiston - Metriche Kanban in pratica a Sky UK](https://vimeo.com/147033406)
 - [Measuring Microservices](http://www.infoq.com/presentations/measuring-microservices)
+- [Michael Feathers - Taking Automated Tests Off The Pedestal](https://plus.google.com/104920553571646483561/posts/fmyZi1MxMgo)
 - [Netflix - Microservices: Lessons for Architectural Design](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
 - [Netflix - Microservices: Lessons for Team and Process Design](https://www.nginx.com/blog/adopting-microservices-at-netflix-lessons-for-team-and-process-design/)
 - [Obie Fernandez - Do the Hustle](http://www.infoq.com/presentations/fernandez-sales-do-the-hustle)
@@ -297,6 +313,7 @@ WARNING: some of these topics are in italian language
 
 ## Sandro Mancuso
 - [Crafted Design](https://vimeo.com/128596005)
+- [Crafted Design](https://vimeo.com/101106002)
 - [Does TDD really lead to good design?](http://www.ustream.tv/recorded/86157842)
 - [Explanatory Methods](https://www.youtube.com/watch?v=sKYX40ltQZM&list=PLGS1QE37I5lQX33-yrnNasV_dHRh2oSkx&index=7)
 - [Interaction Driven Design, How can we quickly](http://www.ustream.tv/recorded/61480606)
@@ -307,6 +324,7 @@ WARNING: some of these topics are in italian language
 - [Software Crasftsmanship](https://www.youtube.com/watch?v=9OhXqBlCmrM)
 - [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI)
 - [Test-driving algorithms](https://www.youtube.com/watch?v=iZjgj1S0FCY&list=PLGS1QE37I5lQX33-yrnNasV_dHRh2oSkx)
+- [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0)
 - [Testing and Refactoring Legacy Code](https://vimeo.com/76472757)
 - [The Long Road](https://skillsmatter.com/skillscasts/6825-keynote-the-long-road)
 
@@ -325,6 +343,7 @@ WARNING: some of these topics are in italian language
 - [Keynote: Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884)
 - [Mutation Testing](http://blog.cleancoder.com/uncle-bob/2016/06/10/MutationTesting.html)
 - [Principles Of Ood](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
+- [Screaming Architecture](https://blog.8thlight.com/uncle-bob/2011/09/30/Screaming-Architecture.html)
 - [The Prime Directive Of Agile Development](http://butunclebob.com/ArticleS.UncleBob.ThePrimeDirectiveOfAgileDevelopment)
 - [The Programmer's Oath](http://blog.cleancoder.com/uncle-bob/2015/11/27/OathDiscussion.html)
 - [Three Paradigms](https://blog.8thlight.com/uncle-bob/2012/12/19/Three-Paradigms.html)
