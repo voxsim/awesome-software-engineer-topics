@@ -4,6 +4,7 @@ A list of useful articles and videos generated from my Instapaper archived list
 WARNING: some of these topics are in italian language
 
 ## 8th Light
+- [Explicit Collections](https://blog.8thlight.com/cory-foy/2012/09/12/explicit-collections.html)
 - [Hey Let's Learn About JavaScript Promises](https://blog.8thlight.com/kevin-buchanan/2016/06/06/javascript-promises.html)
 - [How to hire a software developer](https://blog.8thlight.com/doug-bradbury/2016/06/22/how-to-hire-software-developer.html)
 - [Optimizing the Sustainable Pace](https://blog.8thlight.com/paul-pagel/2015/09/15/optimize-sustainable-pace.html)
@@ -24,6 +25,7 @@ WARNING: some of these topics are in italian language
 
 ## Alistair Cockburn
 - [How I saved Agile and the Rest of the World](http://alistair.cockburn.us/How+I+saved+Agile+and+the+rest+of+the+world)
+- [What is a process good for](http://alistair.cockburn.us/What+is+a+process+good+for%3F)
 - [Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY)
 
 ## Arlo Belshee
@@ -97,6 +99,7 @@ WARNING: some of these topics are in italian language
 - [Architecting for Continuous Delivery](https://www.youtube.com/watch?v=_wnd-eyPoMo)
 - [Stop Hiring DevOps Experts and Start Growing Them](https://www.youtube.com/watch?v=6m9nCtyn6kE)
 - [Why Scaling Agile Doesn't Work](https://www.youtube.com/watch?v=2zYxWEZ0gYg)
+- [You Can Have It All: Software Development at Ludicrous Speed](http://www.ustream.tv/recorded/86180704)
 
 ## Jim Weirich
 - [Adventures in Functional Programming](https://vimeo.com/45140590)
@@ -126,6 +129,7 @@ WARNING: some of these topics are in italian language
 - [The 3 inspiring principles of microservices](http://blogs.ugidotnet.org/luKa/archive/2015/05/10/the-3-inspiring-principles-of-microservices.aspx)
 
 ## Martin Fowler
+- [AbundantMutation](http://martinfowler.com/bliki/AbundantMutation.html)
 - [AccessModifier](http://martinfowler.com/bliki/AccessModifier.html)
 - [AntiPattern](http://martinfowler.com/bliki/AntiPattern.html)
 - [BlueGreenDeployment](http://martinfowler.com/bliki/BlueGreenDeployment.html)
@@ -135,6 +139,7 @@ WARNING: some of these topics are in italian language
 - [CanaryRelease](http://martinfowler.com/bliki/CanaryRelease.html)
 - [CommandQuerySeparation](http://martinfowler.com/bliki/CommandQuerySeparation.html)
 - [Data Transfer Object](http://martinfowler.com/eaaCatalog/dataTransferObject.html)
+- [DataClump](http://martinfowler.com/bliki/DataClump.html)
 - [DevOpsCulture](http://martinfowler.com/bliki/DevOpsCulture.html)
 - [Explaining Agile](https://www.youtube.com/watch?v=GE6lbPLEAzc)
 - [FlaccidScrum](http://martinfowler.com/bliki/FlaccidScrum.html)
@@ -142,6 +147,7 @@ WARNING: some of these topics are in italian language
 - [FrameworkBuilding](http://martinfowler.com/bliki/FrameworkBuilding.html)
 - [HarvestedFramework](http://martinfowler.com/bliki/HarvestedFramework.html)
 - [ImmutableServer](http://martinfowler.com/bliki/ImmutableServer.html)
+- [Is Design Dead?](http://martinfowler.com/articles/designDead.html)
 - [ListAndHash](http://martinfowler.com/bliki/ListAndHash.html)
 - [Making Architecture Matter](https://www.youtube.com/watch?v=DngAZyWMGR0)
 - [Microservice Trade-Offs](http://martinfowler.com/articles/microservice-trade-offs.html)
@@ -152,10 +158,14 @@ WARNING: some of these topics are in italian language
 - [PageObject](http://martinfowler.com/bliki/PageObject.html)
 - [Passive View](http://martinfowler.com/eaaDev/PassiveScreen.html)
 - [Refactoring a javascript video store](http://martinfowler.com/articles/refactoring-video-store-js/)
+- [Replacing Throwing Exceptions with Notification in Validations](http://martinfowler.com/articles/replaceThrowWithNotification.html)
 - [ReportingDatabase](http://martinfowler.com/bliki/ReportingDatabase.html)
 - [SacrificialArchitecture](http://martinfowler.com/bliki/SacrificialArchitecture.html)
+- [SelfTestingCode](http://martinfowler.com/bliki/SelfTestingCode.html)
 - [ServiceOrientedAmbiguity](http://martinfowler.com/bliki/ServiceOrientedAmbiguity.html)
 - [StranglerApplication](http://martinfowler.com/bliki/StranglerApplication.html)
+- [TestDouble](http://martinfowler.com/bliki/TestDouble.html)
+- [Testing Resource Pools](http://martinfowler.com/bliki/TestingResourcePools.html)
 - [Transaction Script](http://martinfowler.com/eaaCatalog/transactionScript.html)
 - [UserStory](http://martinfowler.com/bliki/UserStory.html)
 - [We cannot measure productivity](http://martinfowler.com/bliki/CannotMeasureProductivity.html)
@@ -173,6 +183,11 @@ WARNING: some of these topics are in italian language
 - [TDD Resources](http://matteo.vaccari.name/blog/tdd-resources)
 - [TDD for Android](https://www.youtube.com/watch?v=RLo6hs1uDLA)
 - [The Hexagonal Architecture](http://matteo.vaccari.name/blog/the-hexagonal-architecture)
+
+## Michael Feathers
+- [Stunting a Framework](http://www.artima.com/weblogs/viewpost.jsp?thread=8826)
+- [Taking Automated Tests Off The Pedestal](https://plus.google.com/104920553571646483561/posts/fmyZi1MxMgo)
+- [Using Repository Analysis to Find Single Responsibility Violations](http://michaelfeathers.silvrback.com/using-repository-analysis-to-find-single-responsibility-violations)
 
 ## Misko Hevery
 - [Breaking the Law of Demeter is Like Looking for a Needle in the Haystack](http://misko.hevery.com/2008/07/18/breaking-the-law-of-demeter-is-like-looking-for-a-needle-in-the-haystack/)
@@ -251,7 +266,6 @@ WARNING: some of these topics are in italian language
 - [Matt Wynne - Treating objects like people](https://www.youtube.com/watch?v=lMCsQ_Mg3tI)
 - [Mattia Battiston - Metriche Kanban in pratica a Sky UK](https://vimeo.com/147033406)
 - [Measuring Microservices](http://www.infoq.com/presentations/measuring-microservices)
-- [Michael Feathers - Taking Automated Tests Off The Pedestal](https://plus.google.com/104920553571646483561/posts/fmyZi1MxMgo)
 - [Netflix - Microservices: Lessons for Architectural Design](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
 - [Netflix - Microservices: Lessons for Team and Process Design](https://www.nginx.com/blog/adopting-microservices-at-netflix-lessons-for-team-and-process-design/)
 - [Obie Fernandez - Do the Hustle](http://www.infoq.com/presentations/fernandez-sales-do-the-hustle)
@@ -277,6 +291,7 @@ WARNING: some of these topics are in italian language
 - [User Story Mapping in Practice](http://www.infoq.com/presentations/user-story-map)
 - [What is leadership?](https://www.youtube.com/watch?v=pYKH2uSax8U)
 - [William Cook - A Proposal for Simplified, Modern Definitions of "Object" and "Object Oriented"](http://wcook.blogspot.com/2012/07/proposal-for-simplified-modern.html)
+- [neomatrix369 - TDD good habits manifesto](https://github.com/neomatrix369/refactoring-developer-habits/blob/master/02-outcome-of-collation/tdd-manifesto/tdd-good-habits-manifesto.md)
 
 ## Paolo "Nusco" Perrotta
 - [A short history of Software Engineering](https://www.youtube.com/watch?v=9IPn5Gk_OiM)
@@ -338,6 +353,7 @@ WARNING: some of these topics are in italian language
 - [Agility and Architecture](https://www.youtube.com/watch?v=0oGpWmS0aYQ)
 - [Craftsmanship and Ethics](http://www.infoq.com/presentations/craftmanship-ethics)
 - [Demanding Professionalism in Software Development](https://www.youtube.com/watch?v=p0O1VVqRSK0)
+- [Extreme Programming, a Reflection](https://blog.8thlight.com/uncle-bob/2013/12/10/Thankyou-Kent.html)
 - [FP Basics](https://blog.8thlight.com/uncle-bob/2012/12/22/FPBE1-Whats-it-all-about.html)
 - [Is SOLID A Good Idea?](https://vimeo.com/20388419)
 - [Keynote: Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884)
