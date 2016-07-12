@@ -138,8 +138,8 @@ WARNING: some of these topics are in italian language
 - [CQRS](http://martinfowler.com/bliki/CQRS.html)
 - [CanaryRelease](http://martinfowler.com/bliki/CanaryRelease.html)
 - [CommandQuerySeparation](http://martinfowler.com/bliki/CommandQuerySeparation.html)
+- [Data Clump](http://martinfowler.com/bliki/DataClump.html)
 - [Data Transfer Object](http://martinfowler.com/eaaCatalog/dataTransferObject.html)
-- [DataClump](http://martinfowler.com/bliki/DataClump.html)
 - [DevOpsCulture](http://martinfowler.com/bliki/DevOpsCulture.html)
 - [Explaining Agile](https://www.youtube.com/watch?v=GE6lbPLEAzc)
 - [FlaccidScrum](http://martinfowler.com/bliki/FlaccidScrum.html)
@@ -154,6 +154,7 @@ WARNING: some of these topics are in italian language
 - [MicroservicePremium](http://martinfowler.com/bliki/MicroservicePremium.html)
 - [Microservices](http://martinfowler.com/articles/microservices.html)
 - [Microservices Video](https://www.youtube.com/watch?v=wgdBVIX9ifA)
+- [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html)
 - [Not Just Code Monkeys](https://www.youtube.com/watch?v=Z8aECe4lp44)
 - [PageObject](http://martinfowler.com/bliki/PageObject.html)
 - [Passive View](http://martinfowler.com/eaaDev/PassiveScreen.html)
@@ -188,6 +189,9 @@ WARNING: some of these topics are in italian language
 - [Stunting a Framework](http://www.artima.com/weblogs/viewpost.jsp?thread=8826)
 - [Taking Automated Tests Off The Pedestal](https://plus.google.com/104920553571646483561/posts/fmyZi1MxMgo)
 - [Using Repository Analysis to Find Single Responsibility Violations](http://michaelfeathers.silvrback.com/using-repository-analysis-to-find-single-responsibility-violations)
+
+## Mike Bland
+- [Goto Fail, Heartbleed, and Unit Testing Culture](http://martinfowler.com/articles/testing-culture.html)
 
 ## Misko Hevery
 - [Breaking the Law of Demeter is Like Looking for a Needle in the Haystack](http://misko.hevery.com/2008/07/18/breaking-the-law-of-demeter-is-like-looking-for-a-needle-in-the-haystack/)
