@@ -12,6 +12,7 @@ WARNING: some of these topics are in italian language
 
 ## Aaron Patterson
 - [I am a puts debuggerer](http://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html)
+- [OMG Ruby and Rails Performance](https://www.youtube.com/watch?v=JMGmaRZtgM8)
 - [RailsConf 2013 - Closing Keynote](https://www.youtube.com/watch?v=5kgUL_FfUZY)
 - [RailsConf 2014 - Closing Keynote](https://www.youtube.com/watch?v=BTTygyxuGj8)
 - [RailsConf 2015 - Keynote](https://www.youtube.com/watch?v=B3gYklsN9uc)
@@ -29,17 +30,35 @@ WARNING: some of these topics are in italian language
 - [Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY)
 
 ## Arlo Belshee
-- [Naming is a Process, part 1:Good naming is a process, not a single step](http://arlobelshee.com/good-naming-is-a-process-not-a-single-step/)
+- [Naming is a Process, part 1: Good naming is a process, not a single step](http://arlobelshee.com/good-naming-is-a-process-not-a-single-step/)
 - [Naming is a Process, part 2: Missing to Nonsense](http://arlobelshee.com/naming-is-a-process-part-2-missing-to-nonsense/)
-- [Naming is a process, part 3: Nonsense to Honest](http://arlobelshee.com/naming-is-a-process-part-3-nonsense-to-honest/)
+- [Naming is a Process, part 3: Nonsense to Honest](http://arlobelshee.com/naming-is-a-process-part-3-nonsense-to-honest/)
+- [Naming is a Process, part 4: Honest to Honest and Complete](http://arlobelshee.com/naming-is-a-process-part-4-honest-to-honest-and-complete/)
+- [Naming is a Process, part 5: Honest and Complete to Does the Right Thing](http://arlobelshee.com/naming-is-a-process-part-5-honest-and-complete-to-does-the-right-thing/)
+- [Naming is a Process, part 6: Does the Right Thing to Intent](http://arlobelshee.com/naming-is-a-process-part-6-does-the-right-thing-to-intent/)
+- [Naming is a Process, part 7: Intent to Domain Abstraction](http://arlobelshee.com/naming-is-a-process-part-7-intent-to-domain-abstraction/)
 - [New code is legacy code](http://arlobelshee.com/new-code-is-legacy-code/)
 - [The Core 6 Refactorings](http://arlobelshee.com/the-core-6-refactorings/)
 - [WET: When DRY Doesn’t Apply](http://arlobelshee.com/wet-when-dry-doesnt-apply/)
 - [We are not fucking competent](http://arlobelshee.com/we-are-not-fucking-competent/)
 
 ## C2.com
+- [Acyclic Dependencies Principle](http://c2.com/cgi/wiki?AcyclicDependenciesPrinciple)
 - [Code Smell](http://c2.com/xp/CodeSmell.html)
+- [Common Closure Principle](http://c2.com/cgi/wiki?CommonClosurePrinciple)
+- [Common Reuse Principle](http://c2.com/cgi/wiki?CommonReusePrinciple)
+- [Dependency Inversion Principle](http://c2.com/cgi/wiki?DependencyInversionPrinciple)
+- [Interface Segregation Principle](http://c2.com/cgi/wiki?InterfaceSegregationPrinciple)
+- [Law Of Demeter](http://c2.com/cgi/wiki?LawOfDemeter)
+- [Liskov Substitution Principle](http://c2.com/cgi/wiki?LiskovSubstitutionPrinciple)
+- [Make It Work Make It Right Make It Fast](http://c2.com/cgi/wiki?MakeItWorkMakeItRightMakeItFast)
+- [Open Closed Principle](http://c2.com/cgi/wiki?OpenClosedPrinciple)
+- [Reuse Release Equivalence Principle](http://c2.com/cgi/wiki?ReuseReleaseEquivalencePrinciple)
+- [Single Responsibility Principle](http://c2.com/cgi/wiki?SingleResponsibilityPrinciple)
+- [Stable Abstractions Principle](http://c2.com/cgi/wiki?StableAbstractionsPrinciple)
+- [Stable Dependencies Principle](http://c2.com/cgi/wiki?StableDependenciesPrinciple)
 - [Test Driven Development](http://c2.com/cgi/wiki?TestDrivenDevelopment)
+- [Unix Way](http://c2.com/cgi/wiki?UnixWay)
 
 ## Corey Haines
 - [Design Patterns And The Proper Cultivation Thereof](https://www.youtube.com/watch?v=vqN3TQgsXzI)
@@ -48,20 +67,6 @@ WARNING: some of these topics are in italian language
 - [Rules of Simple Design](https://www.youtube.com/watch?v=ooIy0yk44t8)
 - [Some thoughts on pair-programming styles](http://articles.coreyhaines.com/posts/thoughts-on-pair-programming/)
 
-## Create your own framework... on top of the Symfony2 Components
-- [Part 01](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-1.html)
-- [Part 02](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-2.html)
-- [Part 03](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-3.html)
-- [Part 04](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-4.html)
-- [Part 05](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-5.html)
-- [Part 06](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-6.html)
-- [Part 07](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-7.html)
-- [Part 08](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-8.html)
-- [Part 09](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-9.html)
-- [Part 10](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-10.html)
-- [Part 11](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-11.html)
-- [Part 12](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-12.html)
-
 ## Dave Thomas
 - [Agile is Dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 
@@ -69,6 +74,22 @@ WARNING: some of these topics are in italian language
 - [CRC Cards](http://www.extremeprogramming.org/rules/crccards.html)
 - [Refactor Mercilessly](http://www.extremeprogramming.org/rules/refactor.html)
 - [XP and the Mark IV Coffee Maker](http://www.extremeprogramming.org/example/crcsim.html)
+
+## Fabien Potencier
+- [Create your own framework... on top of the Symfony2 Components Part 01](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-1.html)
+- [Create your own framework... on top of the Symfony2 Components Part 02](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-2.html)
+- [Create your own framework... on top of the Symfony2 Components Part 03](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-3.html)
+- [Create your own framework... on top of the Symfony2 Components Part 04](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-4.html)
+- [Create your own framework... on top of the Symfony2 Components Part 05](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-5.html)
+- [Create your own framework... on top of the Symfony2 Components Part 06](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-6.html)
+- [Create your own framework... on top of the Symfony2 Components Part 07](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-7.html)
+- [Create your own framework... on top of the Symfony2 Components Part 08](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-8.html)
+- [Create your own framework... on top of the Symfony2 Components Part 09](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-9.html)
+- [Create your own framework... on top of the Symfony2 Components Part 10](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-10.html)
+- [Create your own framework... on top of the Symfony2 Components Part 11](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-11.html)
+- [Create your own framework... on top of the Symfony2 Components Part 12](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-12.html)
+- [The PHP Ternary Operator: Fast or not?](http://fabien.potencier.org/the-php-ternary-operator-fast-or-not.html)
+- [print vs echo, which one is faster?](http://fabien.potencier.org/print-vs-echo-which-one-is-faster.html)
 
 ## Facebook
 - [Flux - Application Architecture for Building User Interfaces](http://facebook.github.io/flux/index.html)
@@ -98,6 +119,7 @@ WARNING: some of these topics are in italian language
 - [Adopting Continuous Delivery](https://www.youtube.com/watch?v=ZLBhVEo1OG4)
 - [Architecting for Continuous Delivery](https://www.youtube.com/watch?v=_wnd-eyPoMo)
 - [Stop Hiring DevOps Experts and Start Growing Them](https://www.youtube.com/watch?v=6m9nCtyn6kE)
+- [What is Value?](https://www.youtube.com/watch?v=ESOaDiv3lXA)
 - [Why Scaling Agile Doesn't Work](https://www.youtube.com/watch?v=2zYxWEZ0gYg)
 - [You Can Have It All: Software Development at Ludicrous Speed](http://www.ustream.tv/recorded/86180704)
 
@@ -131,13 +153,16 @@ WARNING: some of these topics are in italian language
 ## Martin Fowler
 - [AbundantMutation](http://martinfowler.com/bliki/AbundantMutation.html)
 - [AccessModifier](http://martinfowler.com/bliki/AccessModifier.html)
+- [Anemic Domain Model](http://martinfowler.com/bliki/AnemicDomainModel.html)
 - [AntiPattern](http://martinfowler.com/bliki/AntiPattern.html)
+- [Beck Design Rules](http://martinfowler.com/bliki/BeckDesignRules.html)
 - [BlueGreenDeployment](http://martinfowler.com/bliki/BlueGreenDeployment.html)
 - [Boiled carrot](http://martinfowler.com/bliki/BoiledCarrot.html)
 - [Born for it](http://martinfowler.com/articles/born-for-it.html)
 - [CQRS](http://martinfowler.com/bliki/CQRS.html)
 - [CanaryRelease](http://martinfowler.com/bliki/CanaryRelease.html)
 - [CommandQuerySeparation](http://martinfowler.com/bliki/CommandQuerySeparation.html)
+- [DIP in the Wild](http://martinfowler.com/articles/dipInTheWild.html)
 - [Data Clump](http://martinfowler.com/bliki/DataClump.html)
 - [Data Transfer Object](http://martinfowler.com/eaaCatalog/dataTransferObject.html)
 - [DevOpsCulture](http://martinfowler.com/bliki/DevOpsCulture.html)
@@ -155,7 +180,10 @@ WARNING: some of these topics are in italian language
 - [Microservices](http://martinfowler.com/articles/microservices.html)
 - [Microservices Video](https://www.youtube.com/watch?v=wgdBVIX9ifA)
 - [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html)
+- [Monolith First](http://martinfowler.com/bliki/MonolithFirst.html)
+- [NoDBA](http://martinfowler.com/bliki/NoDBA.html)
 - [Not Just Code Monkeys](https://www.youtube.com/watch?v=Z8aECe4lp44)
+- [ObjectMother](http://martinfowler.com/bliki/ObjectMother.html)
 - [PageObject](http://martinfowler.com/bliki/PageObject.html)
 - [Passive View](http://martinfowler.com/eaaDev/PassiveScreen.html)
 - [Refactoring a javascript video store](http://martinfowler.com/articles/refactoring-video-store-js/)
@@ -192,6 +220,7 @@ WARNING: some of these topics are in italian language
 
 ## Mike Bland
 - [Goto Fail, Heartbleed, and Unit Testing Culture](http://martinfowler.com/articles/testing-culture.html)
+- [The Chris/Jay Continuous Build](https://mike-bland.com/2012/06/21/chris-jay-continuous-build.html)
 
 ## Misko Hevery
 - [Breaking the Law of Demeter is Like Looking for a Needle in the Haystack](http://misko.hevery.com/2008/07/18/breaking-the-law-of-demeter-is-like-looking-for-a-needle-in-the-haystack/)
@@ -233,6 +262,7 @@ WARNING: some of these topics are in italian language
 - [Cost of Delay - Black Swan Farming](http://blackswanfarming.com/cost-of-delay/)
 - [Crash-only software: More than meets the eye [LWN.net]](http://lwn.net/Articles/191059/)
 - [Dan North and Chris Read - Agile Operations – Optimizing the Business One Shell Script at a Time](http://www.infoq.com/presentations/Agile-Operations-Optimizing-Business)
+- [Danilo Sato - Parallel Change](http://martinfowler.com/bliki/ParallelChange.html)
 - [David Walsh - JavaScript Promises](https://davidwalsh.name/promises)
 - [David Wells - Building a React Component Library & Styleguide for your Organization](https://vimeo.com/168469173)
 - [David West - OOP is Dead! Long Live OODD!](https://vimeo.com/77415896)
@@ -245,6 +275,7 @@ WARNING: some of these topics are in italian language
 - [Five essential phone screen questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 - [Gabriele Lana - La professione dello sviluppatore](https://vimeo.com/34981255)
 - [Gabriele Lana - La professione dello sviluppatore (3 anni dopo)](https://www.youtube.com/watch?v=Ry8JdyQpLWg)
+- [Gary Bernhardt - Deconstructing the framework](https://www.youtube.com/watch?v=iUe6tacW3JE)
 - [GitHub does dotfiles - dotfiles.github.io](http://dotfiles.github.io/)
 - [GoodUI](https://www.goodui.org/)
 - [Greg Young - CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
@@ -274,7 +305,8 @@ WARNING: some of these topics are in italian language
 - [Netflix - Microservices: Lessons for Team and Process Design](https://www.nginx.com/blog/adopting-microservices-at-netflix-lessons-for-team-and-process-design/)
 - [Obie Fernandez - Do the Hustle](http://www.infoq.com/presentations/fernandez-sales-do-the-hustle)
 - [Opensource Licenses](https://opensource.org/licenses)
-- [PHP: The Right Way](http://www.phptherightway.com)
+- [PHP - Efficient data structures for PHP 7](https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd)
+- [PHP - The Right Way](http://www.phptherightway.com)
 - [Panda Strike - Flaws In Scrum And Agile](https://www.pandastrike.com/posts/20150304-agile)
 - [Peter Alvaro - I See What You Mean](https://www.youtube.com/watch?v=R2Aa4PivG0g)
 - [Pierluigi Pugliese - Come scegliere un coach agile?](https://vimeo.com/81136301)
@@ -293,6 +325,7 @@ WARNING: some of these topics are in italian language
 - [Tom Stuart - Refactoring Ruby with Monads](https://www.youtube.com/watch?v=J1jYlPtkrqQ)
 - [Understanding Coupling and Cohesion](https://www.youtube.com/watch?v=hd0v72pD1MI)
 - [User Story Mapping in Practice](http://www.infoq.com/presentations/user-story-map)
+- [Valve - handbook for new employees](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 - [What is leadership?](https://www.youtube.com/watch?v=pYKH2uSax8U)
 - [William Cook - A Proposal for Simplified, Modern Definitions of "Object" and "Object Oriented"](http://wcook.blogspot.com/2012/07/proposal-for-simplified-modern.html)
 - [neomatrix369 - TDD good habits manifesto](https://github.com/neomatrix369/refactoring-developer-habits/blob/master/02-outcome-of-collation/tdd-manifesto/tdd-good-habits-manifesto.md)
@@ -364,8 +397,10 @@ WARNING: some of these topics are in italian language
 - [Mutation Testing](http://blog.cleancoder.com/uncle-bob/2016/06/10/MutationTesting.html)
 - [Principles Of Ood](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
 - [Screaming Architecture](https://blog.8thlight.com/uncle-bob/2011/09/30/Screaming-Architecture.html)
+- [The Cycles of TDD](http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
 - [The Prime Directive Of Agile Development](http://butunclebob.com/ArticleS.UncleBob.ThePrimeDirectiveOfAgileDevelopment)
 - [The Programmer's Oath](http://blog.cleancoder.com/uncle-bob/2015/11/27/OathDiscussion.html)
+- [The Transformation Priority Premise](https://blog.8thlight.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
 - [Three Paradigms](https://blog.8thlight.com/uncle-bob/2012/12/19/Three-Paradigms.html)
 
 ## Vim
