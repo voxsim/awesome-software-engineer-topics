@@ -48,6 +48,7 @@ WARNING: some of these topics are in italian language
 - [Common Closure Principle](http://c2.com/cgi/wiki?CommonClosurePrinciple)
 - [Common Reuse Principle](http://c2.com/cgi/wiki?CommonReusePrinciple)
 - [Dependency Inversion Principle](http://c2.com/cgi/wiki?DependencyInversionPrinciple)
+- [Encapsulation Is Not Information Hiding](http://c2.com/cgi/wiki?EncapsulationIsNotInformationHiding)
 - [Interface Segregation Principle](http://c2.com/cgi/wiki?InterfaceSegregationPrinciple)
 - [Law Of Demeter](http://c2.com/cgi/wiki?LawOfDemeter)
 - [Liskov Substitution Principle](http://c2.com/cgi/wiki?LiskovSubstitutionPrinciple)
@@ -67,8 +68,13 @@ WARNING: some of these topics are in italian language
 - [Rules of Simple Design](https://www.youtube.com/watch?v=ooIy0yk44t8)
 - [Some thoughts on pair-programming styles](http://articles.coreyhaines.com/posts/thoughts-on-pair-programming/)
 
+## Dan Abramov
+- [Live React: Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs)
+- [The Redux Journey](https://www.youtube.com/watch?v=uvAXVMwHJXU)
+
 ## Dave Thomas
 - [Agile is Dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
+- [How to be a concert pianist - Learning versus doing](https://www.youtube.com/watch?v=1kuEiQjPV4U)
 
 ## Extreme Programming
 - [CRC Cards](http://www.extremeprogramming.org/rules/crccards.html)
@@ -93,6 +99,7 @@ WARNING: some of these topics are in italian language
 
 ## Facebook
 - [Flux - Application Architecture for Building User Interfaces](http://facebook.github.io/flux/index.html)
+- [Making Facebook Self-Healing](https://code.facebook.com/posts/156810174519680/making-facebook-self-healing/)
 
 ## Is TDD dead?
 - [Part 1](https://www.youtube.com/watch?v=z9quxZsLcfo)
@@ -140,10 +147,14 @@ WARNING: some of these topics are in italian language
 - [Managing By The 'Book](https://www.youtube.com/watch?v=I3tTCuhO6ho)
 - [Mastering Programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/)
 - [My Convex Career](https://www.facebook.com/notes/kent-beck/my-convex-career/1141660292533500/)
+- [Paint Drip People](https://www.facebook.com/notes/kent-beck/paint-drip-people/1226700000696195/)
 - [RailsConf 2015 - Closing Keynote](https://www.youtube.com/watch?v=aApmOZwdPqA)
 - [Rapid Release Cycles for Convex and Concave Projects](https://www.facebook.com/notes/kent-beck/rapid-release-cycles-for-convex-and-concave-projects/1146648855367977/)
 - [The Return of the Waterfall](https://www.youtube.com/watch?v=w4IncnNVzMA)
 - [You Always Tell Stories to a Five-Year-Old and Other Lessons from a Storyteller](https://www.facebook.com/notes/kent-beck/you-always-tell-stories-to-a-five-year-old-and-other-lessons-from-a-storyteller/1186539594712236/)
+
+## Lee Byron
+- [Immutable App Architecture](https://vimeo.com/166790294)
 
 ## Luca Minudel
 - [Overcoming the one weakness of OOP](http://blogs.ugidotnet.org/luKa/archive/2015/01/20/overcoming-the-one-weakness-of-oop.aspx)
@@ -159,6 +170,7 @@ WARNING: some of these topics are in italian language
 - [BlueGreenDeployment](http://martinfowler.com/bliki/BlueGreenDeployment.html)
 - [Boiled carrot](http://martinfowler.com/bliki/BoiledCarrot.html)
 - [Born for it](http://martinfowler.com/articles/born-for-it.html)
+- [Branch By Abstraction](http://martinfowler.com/bliki/BranchByAbstraction.html)
 - [CQRS](http://martinfowler.com/bliki/CQRS.html)
 - [CanaryRelease](http://martinfowler.com/bliki/CanaryRelease.html)
 - [CommandQuerySeparation](http://martinfowler.com/bliki/CommandQuerySeparation.html)
@@ -170,8 +182,11 @@ WARNING: some of these topics are in italian language
 - [FlaccidScrum](http://martinfowler.com/bliki/FlaccidScrum.html)
 - [FoundationFramework](http://martinfowler.com/bliki/FoundationFramework.html)
 - [FrameworkBuilding](http://martinfowler.com/bliki/FrameworkBuilding.html)
+- [Getter Eradicator](http://martinfowler.com/bliki/GetterEradicator.html)
 - [HarvestedFramework](http://martinfowler.com/bliki/HarvestedFramework.html)
 - [ImmutableServer](http://martinfowler.com/bliki/ImmutableServer.html)
+- [Infrastructure As Code](http://martinfowler.com/bliki/InfrastructureAsCode.html)
+- [Inversion Of Control](http://martinfowler.com/bliki/InversionOfControl.html)
 - [Is Design Dead?](http://martinfowler.com/articles/designDead.html)
 - [ListAndHash](http://martinfowler.com/bliki/ListAndHash.html)
 - [Making Architecture Matter](https://www.youtube.com/watch?v=DngAZyWMGR0)
@@ -193,6 +208,8 @@ WARNING: some of these topics are in italian language
 - [SelfTestingCode](http://martinfowler.com/bliki/SelfTestingCode.html)
 - [ServiceOrientedAmbiguity](http://martinfowler.com/bliki/ServiceOrientedAmbiguity.html)
 - [StranglerApplication](http://martinfowler.com/bliki/StranglerApplication.html)
+- [Test Coverage](http://martinfowler.com/bliki/TestCoverage.html)
+- [Test Pyramid](http://martinfowler.com/bliki/TestPyramid.html)
 - [TestDouble](http://martinfowler.com/bliki/TestDouble.html)
 - [Testing Resource Pools](http://martinfowler.com/bliki/TestingResourcePools.html)
 - [Transaction Script](http://martinfowler.com/eaaCatalog/transactionScript.html)
@@ -227,6 +244,7 @@ WARNING: some of these topics are in italian language
 - [Changing Developer Behaviour, Part 1](http://www.alphaitjournal.com/2008/08/hevery-changing-developer-behaviour.html)
 - [Changing Developer Behaviour, Part 2](http://www.alphaitjournal.com/2009/06/hevery-changing-developer-behaviour.html)
 - [Checked exceptions I love you, but you have to go](http://misko.hevery.com/2009/09/16/checked-exceptions-i-love-you-but-you-have-to-go/)
+- [Guide: Writing Testable Code](http://misko.hevery.com/code-reviewers-guide/)
 - [How to Think About the “new” Operator with Respect to Unit Testing](http://misko.hevery.com/2008/07/08/how-to-think-about-the-new-operator/)
 - [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
 - [Root Cause of Singletons](http://misko.hevery.com/2008/08/25/root-cause-of-singletons/)
@@ -235,12 +253,15 @@ WARNING: some of these topics are in italian language
 - [The Clean Code Talks - Global State and Singletons](https://www.youtube.com/watch?v=-FRm3VPhseI)
 - [The Clean Code Talks - Inheritance, Polymorphism, & Testing](https://www.youtube.com/watch?v=4F72VULWFvc)
 - [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w)
+- [Top 10 Things I do on Every Project](http://misko.hevery.com/2008/07/16/top-10-things-i-do-on-every-project/)
 - [Top 10 things which make your code hard to test](http://misko.hevery.com/2008/07/30/top-10-things-which-make-your-code-hard-to-test/)
 - [Where Have All the Singletons Gone?](http://misko.hevery.com/2008/08/21/where-have-all-the-singletons-gone/)
 
 ## Nat Pryce
+- [Encapsulation is not Information Hiding](http://www.natpryce.com/articles/000498.html)
 - [Message Obsession](http://www.natpryce.com/articles/000816.html)
 - [Refactoring Interfaces](http://www.natpryce.com/articles/000746.html)
+- [Test Data Builders: an alternative to the Object Mother pattern](http://natpryce.com/articles/000714.html?utm_campaign=buffer&utm_content=bufferf8b0f&utm_medium=social&utm_source=twitter.com)
 - [Two Hypotheses per Test](http://www.natpryce.com/articles/000775.html)
 - [Working Effectively with Legacy Tests](http://www.natpryce.com/articles/000813.html)
 
@@ -288,6 +309,7 @@ WARNING: some of these topics are in italian language
 - [Jacopo Romei - Extreme Contracts - Teoria dei vincoli e contratti](https://www.youtube.com/watch?v=i_EnTIYEHf8)
 - [Jafar Husain - Async Programming in ES7](https://www.youtube.com/watch?v=lil4YCCXRYc)
 - [Jeff Patton - Embrace Uncertainty](http://www.infoq.com/presentations/Uncertainty-Jeff-Patton)
+- [Jeremy Thomas - Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/)
 - [Jessica Kerr - Functional Principles for Object Oriented Development](https://www.youtube.com/watch?v=pMGY9ViIGNU)
 - [Joe Damato - Infrastructure as Code Might Literally Be Impossible](https://www.youtube.com/watch?v=SLh_6Ievi7A)
 - [Joel Spolsky - The Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
@@ -320,6 +342,7 @@ WARNING: some of these topics are in italian language
 - [Software architecture vs code - Coding the Architecture](http://www.codingthearchitecture.com/presentations/swanseacon2015-software-architecture-vs-code)
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
 - [Sven Peters - Rise of the Machines: Automate Your Development](https://www.youtube.com/watch?v=oYFqLGOCOHE)
+- [The Pragmatic Bookshelf - Tell, Don't Ask](https://pragprog.com/articles/tell-dont-ask)
 - [The Twelve-Factor App](http://12factor.net/)
 - [ThoughtWorks - 10 Ways to Improve Your Pairing Experience](https://www.thoughtworks.com/insights/blog/10-ways-improve-your-pairing-experience)
 - [Tom Stuart - Refactoring Ruby with Monads](https://www.youtube.com/watch?v=J1jYlPtkrqQ)
@@ -328,6 +351,7 @@ WARNING: some of these topics are in italian language
 - [Valve - handbook for new employees](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 - [What is leadership?](https://www.youtube.com/watch?v=pYKH2uSax8U)
 - [William Cook - A Proposal for Simplified, Modern Definitions of "Object" and "Object Oriented"](http://wcook.blogspot.com/2012/07/proposal-for-simplified-modern.html)
+- [William Durand - Object Calisthenics](http://williamdurand.fr/2013/06/03/object-calisthenics/)
 - [neomatrix369 - TDD good habits manifesto](https://github.com/neomatrix369/refactoring-developer-habits/blob/master/02-outcome-of-collation/tdd-manifesto/tdd-good-habits-manifesto.md)
 
 ## Paolo "Nusco" Perrotta
@@ -354,6 +378,7 @@ WARNING: some of these topics are in italian language
 - [Extreme Programming Myths & Legends Busted](http://www.ustream.tv/recorded/86155342)
 
 ## Ron Jeffries
+- [Essential XP: Emergent Design](http://ronjeffries.com/xprog/classics/expemergentdesign/)
 - [The Backlog](http://ronjeffries.com/articles/015-10/the-backlog/article.html)
 
 ## Sandi Metz
@@ -362,6 +387,7 @@ WARNING: some of these topics are in italian language
 - [Madam Sandi Tells Your Future](https://www.youtube.com/watch?v=JOM5_V5jLAs)
 - [Magic Tricks of Testing - Ancient City Ruby 2013](https://www.youtube.com/watch?v=qPfQM4w4I04)
 - [Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE)
+- [SOLID Object-Oriented Design](https://www.youtube.com/watch?v=v-2yFMzxqwU)
 
 ## Sandro Mancuso
 - [Crafted Design](https://vimeo.com/128596005)
@@ -369,9 +395,9 @@ WARNING: some of these topics are in italian language
 - [Does TDD really lead to good design?](http://www.ustream.tv/recorded/86157842)
 - [Explanatory Methods](https://www.youtube.com/watch?v=sKYX40ltQZM&list=PLGS1QE37I5lQX33-yrnNasV_dHRh2oSkx&index=7)
 - [Interaction Driven Design, How can we quickly](http://www.ustream.tv/recorded/61480606)
-- [Outside In TDD part 1](https://www.youtube.com/watch?v=XHnuMjah6ps)
-- [Outside In TDD part 2](https://www.youtube.com/watch?v=gs0rqDdz3ko)
-- [Outside In TDD part 3](https://www.youtube.com/watch?v=R9OAt9AOrzI)
+- [Outside In TDD part I](https://www.youtube.com/watch?v=XHnuMjah6ps)
+- [Outside In TDD part II](https://www.youtube.com/watch?v=gs0rqDdz3ko)
+- [Outside In TDD part III](https://www.youtube.com/watch?v=R9OAt9AOrzI)
 - [Software Craftsmanship](https://www.youtube.com/watch?v=-czaKO_8jc4&list=PLGS1QE37I5lQX33-yrnNasV_dHRh2oSkx)
 - [Software Crasftsmanship](https://www.youtube.com/watch?v=9OhXqBlCmrM)
 - [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI)
@@ -388,6 +414,7 @@ WARNING: some of these topics are in italian language
 ## Uncle Bob
 - [Agile is not now, nor was it ever, Waterfall.](https://blog.8thlight.com/uncle-bob/2015/10/16/agile-and-waterfall.html)
 - [Agility and Architecture](https://www.youtube.com/watch?v=0oGpWmS0aYQ)
+- [Clean Architecture](https://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
 - [Craftsmanship and Ethics](http://www.infoq.com/presentations/craftmanship-ethics)
 - [Demanding Professionalism in Software Development](https://www.youtube.com/watch?v=p0O1VVqRSK0)
 - [Extreme Programming, a Reflection](https://blog.8thlight.com/uncle-bob/2013/12/10/Thankyou-Kent.html)
@@ -397,7 +424,9 @@ WARNING: some of these topics are in italian language
 - [Mutation Testing](http://blog.cleancoder.com/uncle-bob/2016/06/10/MutationTesting.html)
 - [Principles Of Ood](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
 - [Screaming Architecture](https://blog.8thlight.com/uncle-bob/2011/09/30/Screaming-Architecture.html)
+- [The Clean Architecture](https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [The Cycles of TDD](http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
+- [The Future of Software](https://www.agilealliance.org/resources/videos/the-future-of-software/)
 - [The Prime Directive Of Agile Development](http://butunclebob.com/ArticleS.UncleBob.ThePrimeDirectiveOfAgileDevelopment)
 - [The Programmer's Oath](http://blog.cleancoder.com/uncle-bob/2015/11/27/OathDiscussion.html)
 - [The Transformation Priority Premise](https://blog.8thlight.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
