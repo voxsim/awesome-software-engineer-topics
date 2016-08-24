@@ -136,6 +136,7 @@ WARNING: some of these topics are in italian language
 ## Katrina Owen
 - [Here be Dragons](https://www.youtube.com/watch?v=FvrZrwR5Flc)
 - [Overkill](https://www.youtube.com/watch?v=GWEEPt8VvmU)
+- [Therapeutic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ)
 
 ## Kent Beck
 - [Accelerating Upside: Convexity in Software Development](https://www.facebook.com/notes/kent-beck/accelerating-upside-convexity-in-software-development/1134914156541447/)
@@ -150,6 +151,7 @@ WARNING: some of these topics are in italian language
 - [Paint Drip People](https://www.facebook.com/notes/kent-beck/paint-drip-people/1226700000696195/)
 - [RailsConf 2015 - Closing Keynote](https://www.youtube.com/watch?v=aApmOZwdPqA)
 - [Rapid Release Cycles for Convex and Concave Projects](https://www.facebook.com/notes/kent-beck/rapid-release-cycles-for-convex-and-concave-projects/1146648855367977/)
+- [Responsive Design](http://www.infoq.com/presentations/responsive-design)
 - [The Return of the Waterfall](https://www.youtube.com/watch?v=w4IncnNVzMA)
 - [You Always Tell Stories to a Five-Year-Old and Other Lessons from a Storyteller](https://www.facebook.com/notes/kent-beck/you-always-tell-stories-to-a-five-year-old-and-other-lessons-from-a-storyteller/1186539594712236/)
 
@@ -301,6 +303,7 @@ WARNING: some of these topics are in italian language
 - [GoodUI](https://www.goodui.org/)
 - [Greg Young - CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
 - [Greg Young - Keynote: 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)
+- [Guida Galattica per Agilisti](http://www.guidagalatticaperagilisti.com/)
 - [How to Read a Technical Paper](http://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
 - [Håkan Forss - Habits for Continuous Learning and Improvement](https://www.youtube.com/watch?v=CUnXfIeFfhM)
 - [Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
@@ -346,6 +349,8 @@ WARNING: some of these topics are in italian language
 - [The Twelve-Factor App](http://12factor.net/)
 - [ThoughtWorks - 10 Ways to Improve Your Pairing Experience](https://www.thoughtworks.com/insights/blog/10-ways-improve-your-pairing-experience)
 - [Tom Stuart - Refactoring Ruby with Monads](https://www.youtube.com/watch?v=J1jYlPtkrqQ)
+- [Uberto Barbini - Boost your OOP with FP](https://vimeo.com/32907017)
+- [Uberto Barbini - When TDD Goes Awry](https://vimeo.com/81143682)
 - [Understanding Coupling and Cohesion](https://www.youtube.com/watch?v=hd0v72pD1MI)
 - [User Story Mapping in Practice](http://www.infoq.com/presentations/user-story-map)
 - [Valve - handbook for new employees](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
