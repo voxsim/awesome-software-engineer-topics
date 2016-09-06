@@ -1,4 +1,4 @@
-A list of useful articles and videos generated from my Instapaper archived list
+A list of useful articles and videos generated from my Instapaper archived list on Software Design, Testing, Public Speaking, etc.
 
 # Links
 WARNING: some of these topics are in italian language
@@ -94,6 +94,10 @@ WARNING: some of these topics are in italian language
 - [Create your own framework... on top of the Symfony2 Components Part 10](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-10.html)
 - [Create your own framework... on top of the Symfony2 Components Part 11](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-11.html)
 - [Create your own framework... on top of the Symfony2 Components Part 12](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-12.html)
+
+## Francesco Fullone
+- [Continuous budgeting](https://www.youtube.com/watch?v=5BXw1uN4Usc)
+- [Remote working per un imprenditore, istruzioni all'uso](https://www.youtube.com/watch?v=thAvcDrf870)
 
 ## Gabriele Lana
 - [La professione dello sviluppatore](https://vimeo.com/34981255)
@@ -245,6 +249,9 @@ WARNING: some of these topics are in italian language
 - [Yagni](http://martinfowler.com/bliki/Yagni.html)
 - [with Molly Dishman - Agile Architecture](https://www.youtube.com/watch?v=VjKYO6DP3fo)
 
+## Matteo Collina
+- [NO. La sottile arte di trovare il tempo](https://www.youtube.com/watch?v=9Pbu5rMiz5g)
+
 ## Matteo Vaccari
 - [Bureaucratic tests](http://matteo.vaccari.name/blog/archives/972)
 - [L'arte perduta di pensare ad oggetti](https://www.youtube.com/watch?v=jO6Z3wOdfWc)
@@ -309,7 +316,6 @@ WARNING: some of these topics are in italian language
 - [Emily Bache - As a Professional Programmer, how do you learn new skills?](http://www.ustream.tv/recorded/86187957)
 - [Etsy - Continuously Deploying Culture](https://vimeo.com/51310058)
 - [Five essential phone screen questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
-- [Francesco Fullone - Remote working per un imprenditore, istruzioni all'uso](https://www.youtube.com/watch?v=thAvcDrf870)
 - [GitHub does dotfiles - dotfiles.github.io](http://dotfiles.github.io/)
 - [Guida Galattica per Agilisti](http://www.guidagalatticaperagilisti.com/)
 - [How to Read a Technical Paper](http://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
@@ -377,6 +383,7 @@ WARNING: some of these topics are in italian language
 
 ## Rich Hickey
 - [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
+- [The Database as a Value](https://www.infoq.com/presentations/Datomic-Database-Value)
 
 ## Ron Jeffries
 - [Essential XP: Emergent Design](http://ronjeffries.com/xprog/classics/expemergentdesign/)
