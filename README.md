@@ -3,13 +3,6 @@ A list of useful articles and videos generated from my Instapaper archived list
 # Links
 WARNING: some of these topics are in italian language
 
-## 8th Light
-- [Explicit Collections](https://blog.8thlight.com/cory-foy/2012/09/12/explicit-collections.html)
-- [Hey Let's Learn About JavaScript Promises](https://blog.8thlight.com/kevin-buchanan/2016/06/06/javascript-promises.html)
-- [How to hire a software developer](https://blog.8thlight.com/doug-bradbury/2016/06/22/how-to-hire-software-developer.html)
-- [Optimizing the Sustainable Pace](https://blog.8thlight.com/paul-pagel/2015/09/15/optimize-sustainable-pace.html)
-- [The Experience Gap](https://blog.8thlight.com/doug-bradbury/2012/10/30/experience-gap.html)
-
 ## Aaron Patterson
 - [I am a puts debuggerer](http://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html)
 - [OMG Ruby and Rails Performance](https://www.youtube.com/watch?v=JMGmaRZtgM8)
@@ -30,6 +23,10 @@ WARNING: some of these topics are in italian language
 - [What is a process good for](http://alistair.cockburn.us/What+is+a+process+good+for%3F)
 - [Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY)
 
+## Allen Holub
+- [NoEstimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
+- [The death of Agile](https://www.youtube.com/watch?v=vSnCeJEka_s)
+
 ## Arlo Belshee
 - [Naming is a Process, part 1: Good naming is a process, not a single step](http://arlobelshee.com/good-naming-is-a-process-not-a-single-step/)
 - [Naming is a Process, part 2: Missing to Nonsense](http://arlobelshee.com/naming-is-a-process-part-2-missing-to-nonsense/)
@@ -48,8 +45,10 @@ WARNING: some of these topics are in italian language
 - [Code Smell](http://c2.com/xp/CodeSmell.html)
 - [Common Closure Principle](http://c2.com/cgi/wiki?CommonClosurePrinciple)
 - [Common Reuse Principle](http://c2.com/cgi/wiki?CommonReusePrinciple)
+- [Coupling And Cohesion](http://c2.com/cgi/wiki?CouplingAndCohesion)
 - [Dependency Inversion Principle](http://c2.com/cgi/wiki?DependencyInversionPrinciple)
 - [Encapsulation Is Not Information Hiding](http://c2.com/cgi/wiki?EncapsulationIsNotInformationHiding)
+- [Expression Problem](http://c2.com/cgi/wiki?ExpressionProblem=)
 - [Interface Segregation Principle](http://c2.com/cgi/wiki?InterfaceSegregationPrinciple)
 - [Law Of Demeter](http://c2.com/cgi/wiki?LawOfDemeter)
 - [Liskov Substitution Principle](http://c2.com/cgi/wiki?LiskovSubstitutionPrinciple)
@@ -95,13 +94,23 @@ WARNING: some of these topics are in italian language
 - [Create your own framework... on top of the Symfony2 Components Part 10](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-10.html)
 - [Create your own framework... on top of the Symfony2 Components Part 11](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-11.html)
 - [Create your own framework... on top of the Symfony2 Components Part 12](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-12.html)
-- [The PHP Ternary Operator: Fast or not?](http://fabien.potencier.org/the-php-ternary-operator-fast-or-not.html)
-- [print vs echo, which one is faster?](http://fabien.potencier.org/print-vs-echo-which-one-is-faster.html)
 
-## Facebook
-- [Flux - Application Architecture for Building User Interfaces](http://facebook.github.io/flux/index.html)
-- [Making Facebook Self-Healing](https://code.facebook.com/posts/156810174519680/making-facebook-self-healing/)
-- [Smaller and faster data compression with Zstandard](https://code.facebook.com/posts/1658392934479273/smaller-and-faster-data-compression-with-zstandard/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed)
+## Gabriele Lana
+- [La professione dello sviluppatore](https://vimeo.com/34981255)
+- [La professione dello sviluppatore (3 anni dopo)](https://www.youtube.com/watch?v=Ry8JdyQpLWg)
+
+## Gary Bernhardt
+- [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
+- [Deconstructing the framework](https://www.youtube.com/watch?v=iUe6tacW3JE)
+
+## Google Testing Blog
+- [Flaky Tests at Google and How We Mitigate Them](http://googletesting.blogspot.com/2016/05/flaky-tests-at-google-and-how-we.html)
+- [Hackable Projects](http://googletesting.blogspot.com/2016/08/hackable-projects.html)
+- [Just Say No to More End-to-End Tests](http://googletesting.blogspot.com/2015/04/just-say-no-to-more-end-to-end-tests.html)
+
+## Greg Young
+- [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
+- [Keynote: 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)
 
 ## Is TDD dead?
 - [Part 1](https://www.youtube.com/watch?v=z9quxZsLcfo)
@@ -125,6 +134,10 @@ WARNING: some of these topics are in italian language
 - [The Four Elements of Simple Design](http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design)
 - [What your tests don't need to know will hurt you](http://blog.thecodewhisperer.com/permalink/what-your-tests-dont-need-to-know-will-hurt-you)
 
+## Jacopo Romei
+- [Extreme Contracts](https://www.youtube.com/watch?v=FAv_O5oVUoc)
+- [Extreme Contracts - Teoria dei vincoli e contratti](https://www.youtube.com/watch?v=i_EnTIYEHf8)
+
 ## Jez Humble
 - [Adopting Continuous Delivery](https://www.youtube.com/watch?v=ZLBhVEo1OG4)
 - [Architecting for Continuous Delivery](https://www.youtube.com/watch?v=_wnd-eyPoMo)
@@ -139,6 +152,7 @@ WARNING: some of these topics are in italian language
 ## Katrina Owen
 - [Here be Dragons](https://www.youtube.com/watch?v=FvrZrwR5Flc)
 - [Overkill](https://www.youtube.com/watch?v=GWEEPt8VvmU)
+- [Succession](https://www.youtube.com/watch?v=59YClXmkCVM)
 - [Therapeutic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ)
 
 ## Kent Beck
@@ -155,6 +169,7 @@ WARNING: some of these topics are in italian language
 - [RailsConf 2015 - Closing Keynote](https://www.youtube.com/watch?v=aApmOZwdPqA)
 - [Rapid Release Cycles for Convex and Concave Projects](https://www.facebook.com/notes/kent-beck/rapid-release-cycles-for-convex-and-concave-projects/1146648855367977/)
 - [Responsive Design](http://www.infoq.com/presentations/responsive-design)
+- [The Product Development Triathlon](https://www.facebook.com/notes/kent-beck/the-product-development-triathlon/1215075478525314/)
 - [The Return of the Waterfall](https://www.youtube.com/watch?v=w4IncnNVzMA)
 - [You Always Tell Stories to a Five-Year-Old and Other Lessons from a Storyteller](https://www.facebook.com/notes/kent-beck/you-always-tell-stories-to-a-five-year-old-and-other-lessons-from-a-storyteller/1186539594712236/)
 
@@ -208,6 +223,7 @@ WARNING: some of these topics are in italian language
 - [NoDBA](http://martinfowler.com/bliki/NoDBA.html)
 - [Not Just Code Monkeys](https://www.youtube.com/watch?v=Z8aECe4lp44)
 - [ObjectMother](http://martinfowler.com/bliki/ObjectMother.html)
+- [ObservedRequirement](http://martinfowler.com/bliki/ObservedRequirement.html)
 - [PageObject](http://martinfowler.com/bliki/PageObject.html)
 - [Passive View](http://martinfowler.com/eaaDev/PassiveScreen.html)
 - [Refactoring a javascript video store](http://martinfowler.com/articles/refactoring-video-store-js/)
@@ -249,12 +265,14 @@ WARNING: some of these topics are in italian language
 - [The Chris/Jay Continuous Build](https://mike-bland.com/2012/06/21/chris-jay-continuous-build.html)
 
 ## Misko Hevery
-- [Breaking the Law of Demeter is Like Looking for a Needle in the Haystack](http://misko.hevery.com/2008/07/18/breaking-the-law-of-demeter-is-like-looking-for-a-needle-in-the-haystack/)
 - [Changing Developer Behaviour, Part 1](http://www.alphaitjournal.com/2008/08/hevery-changing-developer-behaviour.html)
 - [Changing Developer Behaviour, Part 2](http://www.alphaitjournal.com/2009/06/hevery-changing-developer-behaviour.html)
 - [Checked exceptions I love you, but you have to go](http://misko.hevery.com/2009/09/16/checked-exceptions-i-love-you-but-you-have-to-go/)
+- [Flaw: Brittle Global State & Singletons](http://misko.hevery.com/code-reviewers-guide/flaw-brittle-global-state-singletons/)
+- [Flaw: Class Does Too Much](http://misko.hevery.com/code-reviewers-guide/flaw-class-does-too-much/)
+- [Flaw: Constructor does Real Work](http://misko.hevery.com/code-reviewers-guide/flaw-constructor-does-real-work/)
+- [Flaw: Digging into Collaborators](http://misko.hevery.com/code-reviewers-guide/flaw-digging-into-collaborators/)
 - [Guide: Writing Testable Code](http://misko.hevery.com/code-reviewers-guide/)
-- [How to Think About the “new” Operator with Respect to Unit Testing](http://misko.hevery.com/2008/07/08/how-to-think-about-the-new-operator/)
 - [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
 - [Root Cause of Singletons](http://misko.hevery.com/2008/08/25/root-cause-of-singletons/)
 - [Singletons are Pathological Liars](http://misko.hevery.com/2008/08/17/singletons-are-pathological-liars/)
@@ -275,17 +293,8 @@ WARNING: some of these topics are in italian language
 - [Working Effectively with Legacy Tests](http://www.natpryce.com/articles/000813.html)
 
 ## Not Categorized
-- [A Guide to Python's Magic Methods « rafekettler.com](http://www.rafekettler.com/magicmethods.html)
-- [A beginner's guide to Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
-- [Adam Jacob - Chef Style DevOps Kungfu](https://www.youtube.com/watch?v=_DEToXsgrPc)
 - [Adam Wathan - Chasing "Perfect"](https://www.youtube.com/watch?v=5DVDewOReoY)
 - [Adrian Cockcroft - The Evolution of Microservices](http://www.ustream.tv/recorded/86151804)
-- [Agile@Work 2015 - Filippo Liverani - Test Driven Infrastructure](https://www.youtube.com/watch?v=J7sfyEZNh9Q)
-- [Agile@Work 2015 - Paolo D'Incau - Continuous Delivery On Java Projects](https://www.youtube.com/watch?v=Y6juAsiurO4)
-- [Allen Holub - NoEstimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
-- [Allen Holub - The death of Agile](https://www.youtube.com/watch?v=vSnCeJEka_s)
-- [Bill Jordan - The Quiet Crisis unfolding in Software Development](https://medium.com/@billjordan1/the-quiet-crisis-unfolding-in-software-development-cffbdafbf450#.z8s3rilmd)
-- [Bob Nystrom - Long Names Are Long](http://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/)
 - [Ciaran McNulty - Why Your Test Suite Sucks](https://www.youtube.com/watch?v=DlgadZLOK-M)
 - [Classical Inheritance in JavaScript](http://www.crockford.com/javascript/inheritance.html)
 - [Coby Chapple - Remote by Default: How Github Makes Working Remotely Not Suck](https://vimeo.com/96692943)
@@ -299,26 +308,11 @@ WARNING: some of these topics are in italian language
 - [Edward Kmett - Stop Treading Water: Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750)
 - [Emily Bache - As a Professional Programmer, how do you learn new skills?](http://www.ustream.tv/recorded/86187957)
 - [Etsy - Continuously Deploying Culture](https://vimeo.com/51310058)
-- [Fabio Collini - Testable Android App](https://www.youtube.com/watch?v=6T-ozjYo974)
-- [Fabio Collini - Testable Android Apps using databinding and MVVM](https://www.youtube.com/watch?v=KrTNR2om_-I)
 - [Five essential phone screen questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
-- [Gabriele Lana - La professione dello sviluppatore](https://vimeo.com/34981255)
-- [Gabriele Lana - La professione dello sviluppatore (3 anni dopo)](https://www.youtube.com/watch?v=Ry8JdyQpLWg)
-- [Gary Bernhardt - Deconstructing the framework](https://www.youtube.com/watch?v=iUe6tacW3JE)
+- [Francesco Fullone - Remote working per un imprenditore, istruzioni all'uso](https://www.youtube.com/watch?v=thAvcDrf870)
 - [GitHub does dotfiles - dotfiles.github.io](http://dotfiles.github.io/)
-- [GoodUI](https://www.goodui.org/)
-- [Google Testing Blog - Flaky Tests at Google and How We Mitigate Them](http://googletesting.blogspot.com/2016/05/flaky-tests-at-google-and-how-we.html)
-- [Google Testing Blog - Just Say No to More End-to-End Tests](http://googletesting.blogspot.com/2015/04/just-say-no-to-more-end-to-end-tests.html)
-- [Greg Young - CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
-- [Greg Young - Keynote: 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)
 - [Guida Galattica per Agilisti](http://www.guidagalatticaperagilisti.com/)
 - [How to Read a Technical Paper](http://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
-- [Håkan Forss - Habits for Continuous Learning and Improvement](https://www.youtube.com/watch?v=CUnXfIeFfhM)
-- [Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
-- [JS: The Right Way](http://www.jstherightway.org)
-- [Jacopo Romei - Extreme Contracts](https://www.youtube.com/watch?v=FAv_O5oVUoc)
-- [Jacopo Romei - Extreme Contracts - Teoria dei vincoli e contratti](https://www.youtube.com/watch?v=i_EnTIYEHf8)
-- [Jafar Husain - Async Programming in ES7](https://www.youtube.com/watch?v=lil4YCCXRYc)
 - [Jeff Patton - Embrace Uncertainty](http://www.infoq.com/presentations/Uncertainty-Jeff-Patton)
 - [Jeremy Thomas - Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/)
 - [Jessica Kerr - Functional Principles for Object Oriented Development](https://www.youtube.com/watch?v=pMGY9ViIGNU)
@@ -334,12 +328,9 @@ WARNING: some of these topics are in italian language
 - [Matt Wynne - Treating objects like people](https://www.youtube.com/watch?v=lMCsQ_Mg3tI)
 - [Mattia Battiston - Metriche Kanban in pratica a Sky UK](https://vimeo.com/147033406)
 - [Measuring Microservices](http://www.infoq.com/presentations/measuring-microservices)
-- [Netflix - Microservices: Lessons for Architectural Design](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
-- [Netflix - Microservices: Lessons for Team and Process Design](https://www.nginx.com/blog/adopting-microservices-at-netflix-lessons-for-team-and-process-design/)
 - [Obie Fernandez - Do the Hustle](http://www.infoq.com/presentations/fernandez-sales-do-the-hustle)
 - [Opensource Licenses](https://opensource.org/licenses)
 - [PHP - Efficient data structures for PHP 7](https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd)
-- [PHP - The Right Way](http://www.phptherightway.com)
 - [Panda Strike - Flaws In Scrum And Agile](https://www.pandastrike.com/posts/20150304-agile)
 - [Peter Alvaro - I See What You Mean](https://www.youtube.com/watch?v=R2Aa4PivG0g)
 - [Pierluigi Pugliese - Come scegliere un coach agile?](https://vimeo.com/81136301)
@@ -347,32 +338,27 @@ WARNING: some of these topics are in italian language
 - [Practical Tools for Playing Well with Others](https://vimeo.com/78917211)
 - [Presenter First Resources](https://atomicobject.com/resources/presenter-first)
 - [RailsConf 2015 - Implementing a Strong Code-Review Culture](https://www.youtube.com/watch?v=PJjmw9TRB7s)
-- [Refactoring Ruby with Monads](http://codon.com/refactoring-ruby-with-monads)
-- [Rich Hickey - Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
 - [Richard Kasperowski - Building Great Teams](https://www.infoq.com/interviews/interview-richard-kasperowski-building-great-teams)
 - [Ross Tuck - How We Talk About Tech](https://www.youtube.com/watch?v=nTi8jw86-_s)
 - [Roy Osherove - JS Unit Testing Good Practices & Horrible Mistakes](https://www.youtube.com/watch?v=iP0Vl-vU3XM)
-- [Semantic UI](http://semantic-ui.com/)
 - [Software architecture vs code - Coding the Architecture](http://www.codingthearchitecture.com/presentations/swanseacon2015-software-architecture-vs-code)
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
 - [Sven Peters - Rise of the Machines: Automate Your Development](https://www.youtube.com/watch?v=oYFqLGOCOHE)
 - [The Pragmatic Bookshelf - Tell, Don't Ask](https://pragprog.com/articles/tell-dont-ask)
 - [The Twelve-Factor App](http://12factor.net/)
-- [ThoughtWorks - 10 Ways to Improve Your Pairing Experience](https://www.thoughtworks.com/insights/blog/10-ways-improve-your-pairing-experience)
 - [Tom Stuart - Refactoring Ruby with Monads](https://www.youtube.com/watch?v=J1jYlPtkrqQ)
-- [Uberto Barbini - Boost your OOP with FP](https://vimeo.com/32907017)
-- [Uberto Barbini - When TDD Goes Awry](https://vimeo.com/81143682)
 - [Understanding Coupling and Cohesion](https://www.youtube.com/watch?v=hd0v72pD1MI)
 - [User Story Mapping in Practice](http://www.infoq.com/presentations/user-story-map)
 - [Valve - handbook for new employees](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 - [What is leadership?](https://www.youtube.com/watch?v=pYKH2uSax8U)
 - [William Cook - A Proposal for Simplified, Modern Definitions of "Object" and "Object Oriented"](http://wcook.blogspot.com/2012/07/proposal-for-simplified-modern.html)
 - [William Durand - Object Calisthenics](http://williamdurand.fr/2013/06/03/object-calisthenics/)
+- [Your Path through Agile Fluency](http://martinfowler.com/articles/agileFluency.html)
 - [neomatrix369 - TDD good habits manifesto](https://github.com/neomatrix369/refactoring-developer-habits/blob/master/02-outcome-of-collation/tdd-manifesto/tdd-good-habits-manifesto.md)
 
 ## Paolo "Nusco" Perrotta
 - [A short history of Software Engineering](https://www.youtube.com/watch?v=9IPn5Gk_OiM)
-- [Baruco 2013: Hunters and Gatherers](https://www.youtube.com/watch?v=ahh-QkttjuM)
+- [Hunters and Gatherers](https://www.youtube.com/watch?v=ahh-QkttjuM)
 - [Java viene da Marte Ruby da Venere](https://www.youtube.com/watch?v=a5sk6AfkSVE)
 - [Keynote 2010](https://vimeo.com/96382289)
 - [Processo al database](https://www.youtube.com/watch?v=d133uz7wNH4)
@@ -385,13 +371,12 @@ WARNING: some of these topics are in italian language
 - [TDD04IT Mock Objects](https://www.youtube.com/watch?v=AmM3zhNQNeI)
 - [TDD05IT Design Evolutivo](https://www.youtube.com/watch?v=C94BmuMi8Bo)
 
-## Public Speaking
-- [Rachel Davies - Conference Club](http://rachelcdavies.github.io/2014/05/27/conference-club.html)
-- [Zach Holman - Tips for Public Speaking – speaking.io](http://speaking.io/)
-- [Zach Holman - What They Don't Tell You About Public Speaking](https://zachholman.com/posts/what-they-dont-tell-you-about-public-speaking/)
-
 ## Rachel Davies
+- [Conference Club](http://rachelcdavies.github.io/2014/05/27/conference-club.html)
 - [Extreme Programming Myths & Legends Busted](http://www.ustream.tv/recorded/86155342)
+
+## Rich Hickey
+- [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
 
 ## Ron Jeffries
 - [Essential XP: Emergent Design](http://ronjeffries.com/xprog/classics/expemergentdesign/)
@@ -406,7 +391,6 @@ WARNING: some of these topics are in italian language
 - [SOLID Object-Oriented Design](https://www.youtube.com/watch?v=v-2yFMzxqwU)
 
 ## Sandro Mancuso
-- [Crafted Design](https://vimeo.com/128596005)
 - [Crafted Design](https://vimeo.com/101106002)
 - [Does TDD really lead to good design?](http://www.ustream.tv/recorded/86157842)
 - [Explanatory Methods](https://www.youtube.com/watch?v=sKYX40ltQZM&list=PLGS1QE37I5lQX33-yrnNasV_dHRh2oSkx&index=7)
@@ -415,10 +399,8 @@ WARNING: some of these topics are in italian language
 - [Outside In TDD part II](https://www.youtube.com/watch?v=gs0rqDdz3ko)
 - [Outside In TDD part III](https://www.youtube.com/watch?v=R9OAt9AOrzI)
 - [Software Craftsmanship](https://www.youtube.com/watch?v=-czaKO_8jc4&list=PLGS1QE37I5lQX33-yrnNasV_dHRh2oSkx)
-- [Software Crasftsmanship](https://www.youtube.com/watch?v=9OhXqBlCmrM)
 - [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI)
 - [Test-driving algorithms](https://www.youtube.com/watch?v=iZjgj1S0FCY&list=PLGS1QE37I5lQX33-yrnNasV_dHRh2oSkx)
-- [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0)
 - [Testing and Refactoring Legacy Code](https://vimeo.com/76472757)
 - [The Long Road](https://skillsmatter.com/skillscasts/6825-keynote-the-long-road)
 
@@ -458,6 +440,8 @@ WARNING: some of these topics are in italian language
 - [How GitHub (no longer) Works](http://www.infoq.com/presentations/github-evolution)
 - [How GitHub Uses GitHub to Build GitHub](https://www.youtube.com/watch?v=qyz3jkOBbQY)
 - [Remote-First vs. Remote-Friendly](https://zachholman.com/posts/remote-first/?utm_campaign=buffer&utm_content=buffer9b64e&utm_medium=social&utm_source=twitter.com)
+- [Tips for Public Speaking – speaking.io](http://speaking.io/)
+- [What They Don't Tell You About Public Speaking](https://zachholman.com/posts/what-they-dont-tell-you-about-public-speaking/)
 
 ## ootips
 - [A Critique of Use Cases](http://ootips.org/use-cases-critique.html)
