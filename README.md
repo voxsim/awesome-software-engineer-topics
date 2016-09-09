@@ -1,15 +1,18 @@
-A list of useful articles and videos generated from my Instapaper archived list on Software Design, Testing, Public Speaking, etc.
+A list of awesome articles and videos generated from my Instapaper archived list on Software Design, Testing, Public Speaking, etc.
 
-# Links
-WARNING: some of these topics are in italian language
+WARNING: some of them are in italian language
 
 ## Aaron Patterson
+- [Double Dream Hands: So Intense!](https://www.youtube.com/watch?v=kWOAHIpmLAI)
+- [How Are Method Calls Formed?](https://www.youtube.com/watch?v=6Dkjus07d9Y)
 - [I am a puts debuggerer](http://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html)
 - [OMG Ruby and Rails Performance](https://www.youtube.com/watch?v=JMGmaRZtgM8)
 - [RailsConf 2013 - Closing Keynote](https://www.youtube.com/watch?v=5kgUL_FfUZY)
 - [RailsConf 2014 - Closing Keynote](https://www.youtube.com/watch?v=BTTygyxuGj8)
 - [RailsConf 2015 - Keynote](https://www.youtube.com/watch?v=B3gYklsN9uc)
+- [RailsConf 2016 - Opening Day 3 Keynote](https://www.youtube.com/watch?v=xMFs9DTympQ)
 - [Request and Response](https://www.youtube.com/watch?v=1EeWXojdqvU)
+- [Yak Shaving is Best Shaving](https://www.youtube.com/watch?v=nY_Pl2x7Fgs)
 
 ## Alan Kay
 - [A Conversation with him - ACM Queue](http://queue.acm.org/detail.cfm?id=1039523)
@@ -20,7 +23,7 @@ WARNING: some of these topics are in italian language
 ## Alistair Cockburn
 - [Hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture)
 - [How I saved Agile and the Rest of the World](http://alistair.cockburn.us/How+I+saved+Agile+and+the+rest+of+the+world)
-- [What is a process good for](http://alistair.cockburn.us/What+is+a+process+good+for%3F)
+- [What is a process good for](http://alistair.cockburn.us/What+is+a+process+good+for%!F(MISSING))
 - [Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY)
 
 ## Allen Holub
@@ -104,8 +107,12 @@ WARNING: some of these topics are in italian language
 - [La professione dello sviluppatore (3 anni dopo)](https://www.youtube.com/watch?v=Ry8JdyQpLWg)
 
 ## Gary Bernhardt
+- [A Whole New World](https://www.destroyallsoftware.com/talks/a-whole-new-world)
 - [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
 - [Deconstructing the framework](https://www.youtube.com/watch?v=iUe6tacW3JE)
+- [The Birth And Death of Javascript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
+- [Useing You're Type's Good](https://www.destroyallsoftware.com/talks/useing-youre-types-good)
+- [Wat](https://www.destroyallsoftware.com/talks/wat)
 
 ## Google Testing Blog
 - [Flaky Tests at Google and How We Mitigate Them](http://googletesting.blogspot.com/2016/05/flaky-tests-at-google-and-how-we.html)
@@ -136,6 +143,7 @@ WARNING: some of these topics are in italian language
 - [Surely the Mars rover needed integrated tests! (Maybe not?)](http://blog.thecodewhisperer.com/permalink/surely-the-mars-rover-needed-integrated-tests-maybe-not)
 - [Tests Don't Have Special Permission To Repeat Themselves](http://online-training.jbrains.ca/courses/the-jbrains-experience/lectures/1106400)
 - [The Four Elements of Simple Design](http://blog.jbrains.ca/permalink/the-four-elements-of-simple-design)
+- [The Next Decade on Vimeo](https://vimeo.com/81926741)
 - [What your tests don't need to know will hurt you](http://blog.thecodewhisperer.com/permalink/what-your-tests-dont-need-to-know-will-hurt-you)
 
 ## Jacopo Romei
@@ -265,6 +273,7 @@ WARNING: some of these topics are in italian language
 ## Michael Feathers
 - [Stunting a Framework](http://www.artima.com/weblogs/viewpost.jsp?thread=8826)
 - [Taking Automated Tests Off The Pedestal](https://plus.google.com/104920553571646483561/posts/fmyZi1MxMgo)
+- [The Deep Synergy Between Testability and Good Design](https://vimeo.com/15007792)
 - [Using Repository Analysis to Find Single Responsibility Violations](http://michaelfeathers.silvrback.com/using-repository-analysis-to-find-single-responsibility-violations)
 
 ## Mike Bland
@@ -319,6 +328,7 @@ WARNING: some of these topics are in italian language
 - [GitHub does dotfiles - dotfiles.github.io](http://dotfiles.github.io/)
 - [Guida Galattica per Agilisti](http://www.guidagalatticaperagilisti.com/)
 - [How to Read a Technical Paper](http://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
+- [Ian Cooper - TDD, where did it all go wrong on Vimeo](https://vimeo.com/68375232)
 - [Jeff Patton - Embrace Uncertainty](http://www.infoq.com/presentations/Uncertainty-Jeff-Patton)
 - [Jeremy Thomas - Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/)
 - [Jessica Kerr - Functional Principles for Object Oriented Development](https://www.youtube.com/watch?v=pMGY9ViIGNU)
@@ -356,6 +366,7 @@ WARNING: some of these topics are in italian language
 - [Understanding Coupling and Cohesion](https://www.youtube.com/watch?v=hd0v72pD1MI)
 - [User Story Mapping in Practice](http://www.infoq.com/presentations/user-story-map)
 - [Valve - handbook for new employees](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+- [We Are All Awesome!](http://weareallaweso.me/)
 - [What is leadership?](https://www.youtube.com/watch?v=pYKH2uSax8U)
 - [William Cook - A Proposal for Simplified, Modern Definitions of "Object" and "Object Oriented"](http://wcook.blogspot.com/2012/07/proposal-for-simplified-modern.html)
 - [William Durand - Object Calisthenics](http://williamdurand.fr/2013/06/03/object-calisthenics/)
@@ -401,6 +412,7 @@ WARNING: some of these topics are in italian language
 - [Crafted Design](https://vimeo.com/101106002)
 - [Does TDD really lead to good design?](http://www.ustream.tv/recorded/86157842)
 - [Explanatory Methods](https://www.youtube.com/watch?v=sKYX40ltQZM&list=PLGS1QE37I5lQX33-yrnNasV_dHRh2oSkx&index=7)
+- [Functional is cool, but do you know OO](https://www.youtube.com/watch?v=oiFYPAel-KY)
 - [Interaction Driven Design, How can we quickly](http://www.ustream.tv/recorded/61480606)
 - [Outside In TDD part I](https://www.youtube.com/watch?v=XHnuMjah6ps)
 - [Outside In TDD part II](https://www.youtube.com/watch?v=gs0rqDdz3ko)
@@ -448,6 +460,7 @@ WARNING: some of these topics are in italian language
 - [How GitHub Uses GitHub to Build GitHub](https://www.youtube.com/watch?v=qyz3jkOBbQY)
 - [Remote-First vs. Remote-Friendly](https://zachholman.com/posts/remote-first/?utm_campaign=buffer&utm_content=buffer9b64e&utm_medium=social&utm_source=twitter.com)
 - [Tips for Public Speaking – speaking.io](http://speaking.io/)
+- [Unsucking Your Team's Development Environment](https://www.youtube.com/watch?v=Xa8r2xcK1e4)
 - [What They Don't Tell You About Public Speaking](https://zachholman.com/posts/what-they-dont-tell-you-about-public-speaking/)
 
 ## ootips
