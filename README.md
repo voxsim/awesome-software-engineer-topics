@@ -6,13 +6,18 @@ WARNING: some of them are in italian language
 - [Double Dream Hands: So Intense!](https://www.youtube.com/watch?v=kWOAHIpmLAI)
 - [How Are Method Calls Formed?](https://www.youtube.com/watch?v=6Dkjus07d9Y)
 - [I am a puts debuggerer](http://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html)
+- [Inside Ruby's VM: The TMI Edition](https://www.youtube.com/watch?v=CT8JSJkymZM)
 - [OMG Ruby and Rails Performance](https://www.youtube.com/watch?v=JMGmaRZtgM8)
 - [RailsConf 2013 - Closing Keynote](https://www.youtube.com/watch?v=5kgUL_FfUZY)
 - [RailsConf 2014 - Closing Keynote](https://www.youtube.com/watch?v=BTTygyxuGj8)
 - [RailsConf 2015 - Keynote](https://www.youtube.com/watch?v=B3gYklsN9uc)
 - [RailsConf 2016 - Opening Day 3 Keynote](https://www.youtube.com/watch?v=xMFs9DTympQ)
 - [Request and Response](https://www.youtube.com/watch?v=1EeWXojdqvU)
+- [Taking Out The Trash](https://www.youtube.com/watch?v=-cCTB49AqvM)
 - [Yak Shaving is Best Shaving](https://www.youtube.com/watch?v=nY_Pl2x7Fgs)
+
+## Adrian Cockcroft
+- [The Evolution of Microservices](http://www.ustream.tv/recorded/86151804)
 
 ## Alan Kay
 - [A Conversation with him - ACM Queue](http://queue.acm.org/detail.cfm?id=1039523)
@@ -98,6 +103,10 @@ WARNING: some of them are in italian language
 - [Create your own framework... on top of the Symfony2 Components Part 11](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-11.html)
 - [Create your own framework... on top of the Symfony2 Components Part 12](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-12.html)
 
+## Facebook
+- [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw)
+- [Smaller and faster data compression with Zstandard](https://code.facebook.com/posts/1658392934479273/smaller-and-faster-data-compression-with-zstandard/)
+
 ## Francesco Fullone
 - [Continuous budgeting](https://www.youtube.com/watch?v=5BXw1uN4Usc)
 - [Remote working per un imprenditore, istruzioni all'uso](https://www.youtube.com/watch?v=thAvcDrf870)
@@ -110,11 +119,13 @@ WARNING: some of them are in italian language
 - [A Whole New World](https://www.destroyallsoftware.com/talks/a-whole-new-world)
 - [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
 - [Deconstructing the framework](https://www.youtube.com/watch?v=iUe6tacW3JE)
+- [Fast Test, Slow Test](https://www.youtube.com/watch?v=RAxiiRPHS9k)
 - [The Birth And Death of Javascript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 - [Useing You're Type's Good](https://www.destroyallsoftware.com/talks/useing-youre-types-good)
 - [Wat](https://www.destroyallsoftware.com/talks/wat)
 
-## Google Testing Blog
+## Google
+- [Five essential phone screen questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 - [Flaky Tests at Google and How We Mitigate Them](http://googletesting.blogspot.com/2016/05/flaky-tests-at-google-and-how-we.html)
 - [Hackable Projects](http://googletesting.blogspot.com/2016/08/hackable-projects.html)
 - [Just Say No to More End-to-End Tests](http://googletesting.blogspot.com/2015/04/just-say-no-to-more-end-to-end-tests.html)
@@ -160,6 +171,8 @@ WARNING: some of them are in italian language
 
 ## Jim Weirich
 - [Adventures in Functional Programming](https://vimeo.com/45140590)
+- [Decoupling from Rails](https://www.youtube.com/watch?v=tg5RFeSfBM4)
+- [The Building Blocks of Modularity](https://www.youtube.com/watch?v=l780SYuz9DI)
 
 ## Katrina Owen
 - [Here be Dragons](https://www.youtube.com/watch?v=FvrZrwR5Flc)
@@ -257,6 +270,10 @@ WARNING: some of them are in italian language
 - [Yagni](http://martinfowler.com/bliki/Yagni.html)
 - [with Molly Dishman - Agile Architecture](https://www.youtube.com/watch?v=VjKYO6DP3fo)
 
+## Matt Wynne
+- [Hexagonal Rails](https://www.youtube.com/watch?v=CGN4RFkhH2M)
+- [Treating objects like people](https://www.youtube.com/watch?v=lMCsQ_Mg3tI)
+
 ## Matteo Collina
 - [NO. La sottile arte di trovare il tempo](https://www.youtube.com/watch?v=9Pbu5rMiz5g)
 
@@ -274,6 +291,7 @@ WARNING: some of them are in italian language
 - [Stunting a Framework](http://www.artima.com/weblogs/viewpost.jsp?thread=8826)
 - [Taking Automated Tests Off The Pedestal](https://plus.google.com/104920553571646483561/posts/fmyZi1MxMgo)
 - [The Deep Synergy Between Testability and Good Design](https://vimeo.com/15007792)
+- [The Ethics of Error Prevention](https://www.infoq.com/presentations/error-prevention-ethics)
 - [Using Repository Analysis to Find Single Responsibility Violations](http://michaelfeathers.silvrback.com/using-repository-analysis-to-find-single-responsibility-violations)
 
 ## Mike Bland
@@ -303,6 +321,7 @@ WARNING: some of them are in italian language
 ## Nat Pryce
 - [Encapsulation is not Information Hiding](http://www.natpryce.com/articles/000498.html)
 - [Message Obsession](http://www.natpryce.com/articles/000816.html)
+- [Mock Roles Not Object States](http://www.infoq.com/presentations/Mock-Objects-Nat-Pryce-Steve-Freeman)
 - [Refactoring Interfaces](http://www.natpryce.com/articles/000746.html)
 - [Test Data Builders: an alternative to the Object Mother pattern](http://natpryce.com/articles/000714.html?utm_campaign=buffer&utm_content=bufferf8b0f&utm_medium=social&utm_source=twitter.com)
 - [Two Hypotheses per Test](http://www.natpryce.com/articles/000775.html)
@@ -310,21 +329,17 @@ WARNING: some of them are in italian language
 
 ## Not Categorized
 - [Adam Wathan - Chasing "Perfect"](https://www.youtube.com/watch?v=5DVDewOReoY)
-- [Adrian Cockcroft - The Evolution of Microservices](http://www.ustream.tv/recorded/86151804)
 - [Ciaran McNulty - Why Your Test Suite Sucks](https://www.youtube.com/watch?v=DlgadZLOK-M)
-- [Classical Inheritance in JavaScript](http://www.crockford.com/javascript/inheritance.html)
 - [Coby Chapple - Remote by Default: How Github Makes Working Remotely Not Suck](https://vimeo.com/96692943)
 - [Cost of Delay - Black Swan Farming](http://blackswanfarming.com/cost-of-delay/)
 - [Crash-only software: More than meets the eye [LWN.net]](http://lwn.net/Articles/191059/)
 - [Dan North and Chris Read - Agile Operations – Optimizing the Business One Shell Script at a Time](http://www.infoq.com/presentations/Agile-Operations-Optimizing-Business)
 - [Danilo Sato - Parallel Change](http://martinfowler.com/bliki/ParallelChange.html)
-- [David Walsh - JavaScript Promises](https://davidwalsh.name/promises)
 - [David West - OOP is Dead! Long Live OODD!](https://vimeo.com/77415896)
 - [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
 - [Edward Kmett - Stop Treading Water: Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750)
 - [Emily Bache - As a Professional Programmer, how do you learn new skills?](http://www.ustream.tv/recorded/86187957)
 - [Etsy - Continuously Deploying Culture](https://vimeo.com/51310058)
-- [Five essential phone screen questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 - [GitHub does dotfiles - dotfiles.github.io](http://dotfiles.github.io/)
 - [Guida Galattica per Agilisti](http://www.guidagalatticaperagilisti.com/)
 - [How to Read a Technical Paper](http://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
@@ -340,8 +355,6 @@ WARNING: some of them are in italian language
 - [Lasse Ziegler - The Good Product Owner - A path to become great](https://www.youtube.com/watch?v=tIk9HUyRXJ4)
 - [Liz Keogh - A Dreyfus model for Agile adoption](https://lizkeogh.com/2015/04/22/a-dreyfus-model-for-agile-adoption/)
 - [Mathias Verraes - Unbreakable Domain Models](https://www.youtube.com/watch?v=ZJ63ltuwMaE&list=PL_aPVo2HeGF-7o9SPO5arFrAaU8bcIjba&index=8)
-- [Matt Wynne - GoRuCo 2012 Hexagonal Rails](https://www.youtube.com/watch?v=CGN4RFkhH2M)
-- [Matt Wynne - Treating objects like people](https://www.youtube.com/watch?v=lMCsQ_Mg3tI)
 - [Mattia Battiston - Metriche Kanban in pratica a Sky UK](https://vimeo.com/147033406)
 - [Measuring Microservices](http://www.infoq.com/presentations/measuring-microservices)
 - [Obie Fernandez - Do the Hustle](http://www.infoq.com/presentations/fernandez-sales-do-the-hustle)
@@ -349,8 +362,6 @@ WARNING: some of them are in italian language
 - [PHP - Efficient data structures for PHP 7](https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd)
 - [Panda Strike - Flaws In Scrum And Agile](https://www.pandastrike.com/posts/20150304-agile)
 - [Peter Alvaro - I See What You Mean](https://www.youtube.com/watch?v=R2Aa4PivG0g)
-- [Pierluigi Pugliese - Come scegliere un coach agile?](https://vimeo.com/81136301)
-- [Pierluigi Pugliese - I’m Not a Servant - I’m a Host! A New Metaphor for Leadership in Agile?](http://www.infoq.com/articles/host-leadership-agile)
 - [Practical Tools for Playing Well with Others](https://vimeo.com/78917211)
 - [Presenter First Resources](https://atomicobject.com/resources/presenter-first)
 - [RailsConf 2015 - Implementing a Strong Code-Review Culture](https://www.youtube.com/watch?v=PJjmw9TRB7s)
@@ -388,13 +399,22 @@ WARNING: some of them are in italian language
 - [TDD04IT Mock Objects](https://www.youtube.com/watch?v=AmM3zhNQNeI)
 - [TDD05IT Design Evolutivo](https://www.youtube.com/watch?v=C94BmuMi8Bo)
 
+## Pierluigi Pugliese
+- [Come scegliere un coach agile?](https://vimeo.com/81136301)
+- [I’m Not a Servant - I’m a Host! A New Metaphor for Leadership in Agile?](http://www.infoq.com/articles/host-leadership-agile)
+
 ## Rachel Davies
 - [Conference Club](http://rachelcdavies.github.io/2014/05/27/conference-club.html)
 - [Extreme Programming Myths & Legends Busted](http://www.ustream.tv/recorded/86155342)
 
 ## Rich Hickey
+- [Are We There Yet?](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
+- [Clojure](https://www.infoq.com/presentations/hickey-clojure)
+- [Design, Composition, and Performance](https://www.infoq.com/presentations/design-composition-performance-keynote)
+- [Persistent Data Structures and Managed References](https://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey)
 - [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
 - [The Database as a Value](https://www.infoq.com/presentations/Datomic-Database-Value)
+- [The Value of Values](https://www.infoq.com/presentations/Value-Values)
 
 ## Ron Jeffries
 - [Essential XP: Emergent Design](http://ronjeffries.com/xprog/classics/expemergentdesign/)
