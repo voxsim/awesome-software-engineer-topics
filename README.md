@@ -48,6 +48,13 @@ WARNING: some of them are in italian language
 - [WET: When DRY Doesn’t Apply](http://arlobelshee.com/wet-when-dry-doesnt-apply/)
 - [We are not fucking competent](http://arlobelshee.com/we-are-not-fucking-competent/)
 
+## Awelon Blue
+- [KPNs as an Effects Model](https://awelonblue.wordpress.com/2016/09/29/kpns-as-an-effects-model/)
+- [Local State is Poison](https://awelonblue.wordpress.com/2012/10/21/local-state-is-poison/)
+- [Out of the Tarpit](https://awelonblue.wordpress.com/2015/12/09/out-of-the-tarpit/)
+- [Reactive State Transition](https://awelonblue.wordpress.com/2011/10/04/reactive-state-transition/)
+- [Why Not Events](https://awelonblue.wordpress.com/2012/07/01/why-not-events/)
+
 ## C2.com
 - [Acyclic Dependencies Principle](http://c2.com/cgi/wiki?AcyclicDependenciesPrinciple)
 - [Code Smell](http://c2.com/xp/CodeSmell.html)
@@ -69,6 +76,14 @@ WARNING: some of them are in italian language
 - [Test Driven Development](http://c2.com/cgi/wiki?TestDrivenDevelopment)
 - [Unix Way](http://c2.com/cgi/wiki?UnixWay)
 
+## Clojure
+- [Datatypes: deftype, defrecord and reify](http://clojure.org/reference/datatypes)
+- [Multimethods and Hierarchies](http://clojure.org/reference/multimethods)
+- [Protocols](http://clojure.org/reference/protocols)
+- [Rationale](http://clojure.org/about/rationale)
+- [Runtime Polymorphism](http://clojure.org/about/runtime_polymorphism)
+- [Values and Change: Clojure’s approach to Identity and State](http://clojure.org/about/state)
+
 ## Corey Haines
 - [Design Patterns And The Proper Cultivation Thereof](https://www.youtube.com/watch?v=vqN3TQgsXzI)
 - [Fun with Lambdas!](https://www.youtube.com/watch?v=gULkBpl3e7c)
@@ -83,6 +98,10 @@ WARNING: some of them are in italian language
 ## Dave Thomas
 - [Agile is Dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 - [How to be a concert pianist - Learning versus doing](https://www.youtube.com/watch?v=1kuEiQjPV4U)
+
+## Elixir
+- [A peek inside Elixir’s Parallel Compiler](http://elixir-lang.org/blog/2012/04/24/a-peek-inside-elixir-s-parallel-compiler/)
+- [Design Goals](http://elixir-lang.org/blog/2013/08/08/elixir-design-goals/)
 
 ## Extreme Programming
 - [CRC Cards](http://www.extremeprogramming.org/rules/crccards.html)
@@ -116,10 +135,10 @@ WARNING: some of them are in italian language
 - [La professione dello sviluppatore (3 anni dopo)](https://www.youtube.com/watch?v=Ry8JdyQpLWg)
 
 ## Gary Bernhardt
-- [A Whole New World](https://www.destroyallsoftware.com/talks/a-whole-new-world)
 - [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
 - [Deconstructing the framework](https://www.youtube.com/watch?v=iUe6tacW3JE)
 - [Fast Test, Slow Test](https://www.youtube.com/watch?v=RAxiiRPHS9k)
+- [Test Isolation Is About Avoiding Mocks](https://www.destroyallsoftware.com/blog/2014/test-isolation-is-about-avoiding-mocks)
 - [The Birth And Death of Javascript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 - [Useing You're Type's Good](https://www.destroyallsoftware.com/talks/useing-youre-types-good)
 - [Wat](https://www.destroyallsoftware.com/talks/wat)
@@ -127,12 +146,17 @@ WARNING: some of them are in italian language
 ## Google
 - [Five essential phone screen questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 - [Flaky Tests at Google and How We Mitigate Them](http://googletesting.blogspot.com/2016/05/flaky-tests-at-google-and-how-we.html)
+- [Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
 - [Hackable Projects](http://googletesting.blogspot.com/2016/08/hackable-projects.html)
 - [Just Say No to More End-to-End Tests](http://googletesting.blogspot.com/2015/04/just-say-no-to-more-end-to-end-tests.html)
 
 ## Greg Young
 - [CQRS and Event Sourcing](https://www.youtube.com/watch?v=JHGkaShoyNs)
 - [Keynote: 8 Lines of Code](http://www.infoq.com/presentations/8-lines-code-refactoring)
+
+## Guy Steele
+- [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0)
+- [How to Think about Parallel Programming: Not!](https://www.infoq.com/presentations/Thinking-Parallel-Programming)
 
 ## Is TDD dead?
 - [Part 1](https://www.youtube.com/watch?v=z9quxZsLcfo)
@@ -200,6 +224,7 @@ WARNING: some of them are in italian language
 
 ## Lee Byron
 - [Immutable App Architecture](https://vimeo.com/166790294)
+- [Immutable User Interfaces](https://www.youtube.com/watch?v=pLvrZPSzHxo)
 
 ## Luca Minudel
 - [Overcoming the one weakness of OOP](http://blogs.ugidotnet.org/luKa/archive/2015/01/20/overcoming-the-one-weakness-of-oop.aspx)
@@ -333,8 +358,10 @@ WARNING: some of them are in italian language
 - [Coby Chapple - Remote by Default: How Github Makes Working Remotely Not Suck](https://vimeo.com/96692943)
 - [Cost of Delay - Black Swan Farming](http://blackswanfarming.com/cost-of-delay/)
 - [Crash-only software: More than meets the eye [LWN.net]](http://lwn.net/Articles/191059/)
+- [Dan North - Software that Fits in Your Head](https://www.youtube.com/watch?v=4Y0tOi7QWqM)
 - [Dan North and Chris Read - Agile Operations – Optimizing the Business One Shell Script at a Time](http://www.infoq.com/presentations/Agile-Operations-Optimizing-Business)
 - [Danilo Sato - Parallel Change](http://martinfowler.com/bliki/ParallelChange.html)
+- [David Nolen - The Functional Final Frontier](https://www.infoq.com/presentations/om-clojurescript-facebook-react)
 - [David West - OOP is Dead! Long Live OODD!](https://vimeo.com/77415896)
 - [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
 - [Edward Kmett - Stop Treading Water: Learning to Learn](https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750)
@@ -350,6 +377,7 @@ WARNING: some of them are in italian language
 - [Joe Damato - Infrastructure as Code Might Literally Be Impossible](https://www.youtube.com/watch?v=SLh_6Ievi7A)
 - [Joel Spolsky - The Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
 - [John Allspaw and Paul Hammond - 10+ Deploys Per Day: Dev and Ops Cooperation at Flickr](https://www.youtube.com/watch?v=LdOe18KhtT4)
+- [Joshua Bloch - How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=heh4OeB9A-c)
 - [Kathy Sierra - Making Badass Developers (Serious Pony)](https://www.youtube.com/watch?v=FKTxC9pl-WM)
 - [Konstantin Kudryashov - Design How Your Objects Talk Through Mocking](https://www.youtube.com/watch?v=X6y-OyMPqfw)
 - [Lasse Ziegler - The Good Product Owner - A path to become great](https://www.youtube.com/watch?v=tIk9HUyRXJ4)
@@ -370,6 +398,7 @@ WARNING: some of them are in italian language
 - [Roy Osherove - JS Unit Testing Good Practices & Horrible Mistakes](https://www.youtube.com/watch?v=iP0Vl-vU3XM)
 - [Software architecture vs code - Coding the Architecture](http://www.codingthearchitecture.com/presentations/swanseacon2015-software-architecture-vs-code)
 - [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
+- [Stuart Sierra - Components Just Enough Structure](https://www.youtube.com/watch?v=13cmHf_kt-Q)
 - [Sven Peters - Rise of the Machines: Automate Your Development](https://www.youtube.com/watch?v=oYFqLGOCOHE)
 - [The Pragmatic Bookshelf - Tell, Don't Ask](https://pragprog.com/articles/tell-dont-ask)
 - [The Twelve-Factor App](http://12factor.net/)
@@ -410,11 +439,19 @@ WARNING: some of them are in italian language
 ## Rich Hickey
 - [Are We There Yet?](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
 - [Clojure](https://www.infoq.com/presentations/hickey-clojure)
+- [Clojure Made Simple](https://www.youtube.com/watch?v=VSdnJDO-xdg)
 - [Design, Composition, and Performance](https://www.infoq.com/presentations/design-composition-performance-keynote)
+- [Inside Transducers](https://www.youtube.com/watch?v=4KqUvG8HPYo)
 - [Persistent Data Structures and Managed References](https://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey)
 - [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
 - [The Database as a Value](https://www.infoq.com/presentations/Datomic-Database-Value)
 - [The Value of Values](https://www.infoq.com/presentations/Value-Values)
+- [Transducers](https://www.youtube.com/watch?v=6mTbuzafcII)
+
+## Rob Pike
+- [Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso)
+- [Generating code](https://blog.golang.org/generate)
+- [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
 
 ## Ron Jeffries
 - [Essential XP: Emergent Design](http://ronjeffries.com/xprog/classics/expemergentdesign/)
